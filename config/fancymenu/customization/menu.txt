@@ -1,0 +1,79 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  orientation = bottom-left
+  shadow = true
+  x = 2
+  actionid = 2a9a9fd1-2ca6-4d48-88a1-139804be014b1626892402006
+  action = addtext
+  y = -10
+  scale = 1.0
+  alignment = left
+  value = Minecraft 1.17.1/Fabric (загружено %loadedmods% модов)
+}
+
+customization {
+  orientation = bottom-left
+  shadow = true
+  x = 2
+  actionid = f75ee6a0-9958-4d4b-be1b-a152354fa0941626892449574
+  action = addtext
+  y = -20
+  scale = 1.0
+  alignment = left
+  value = ModPack Better Vanilla v1.0 RC-1 by Disguys
+}
+
+customization {
+  orientation = mid-centered
+  buttonaction = openlink
+  x = -124
+  width = 20
+  actionid = 5f601260-3462-4b8c-8bd0-62a8b790cc251627327119341
+  action = addbutton
+  y = -27
+  backgroundhovered = config/fancymenu/customization/discord-click.png
+  label = 
+  backgroundnormal = config/fancymenu/customization/discord.png
+  value = https://discord.gg/az4WxZSeDU
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  buttonaction = openlink
+  x = 104
+  width = 20
+  actionid = 501bc312-57f5-46cd-ba69-a23992d084eb1627327119349
+  action = addbutton
+  y = -27
+  backgroundhovered = config/fancymenu/customization/curseforge-click.png
+  label = 
+  backgroundnormal = config/fancymenu/customization/curseforge.png
+  value = https://www.curseforge.com/members/disguyswatch/projects
+  height = 20
+}
+
+customization {
+  showname = false
+  orientation = mid-left
+  crouching = false
+  x = 41
+  slim = true
+  actionid = 5fb6fcf0-8668-44d0-bdd2-0ada49c6826c1626912074516
+  action = addentity
+  y = 31
+  scale = 70
+  playername = %playername%
+  capepath = config/fancymenu/capes/minecon-2012-cape.png
+  parrot = false
+}
+
