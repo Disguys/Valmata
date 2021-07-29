@@ -1,4 +1,4 @@
-# Valmata [1.17.1]
+# Valmata [1.17.1+]
 
 Будет доступен для скачивания в конце июля на CurseForge и Yandex Disk.
 
