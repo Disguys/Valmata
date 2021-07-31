@@ -10,30 +10,28 @@ body:
         
   - type: textarea
     attributes:
-      label: Expected behavior
-      description: What you expected to happen.
+      label: Ожидаемое поведение
+      description: То, чего вы ожидали.
     validations:
       required: true
   - type: textarea
     attributes:
-      label: Actual behavior
-      description: What actually happened.
+      label: Актуальное поведение
+      description: Что на самом деле произошло.
     validations:
       required: true
   - type: textarea
     attributes:
-      label: Steps to reproduce
-      description: Cite any steps you did to reproduce the bug. You can also cite videos, schematics, maps...
+      label: Шаги по воспроизведению
+      description: Укажите все шаги, которые вы сделали, чтобы воспроизвести ошибку. Вы также можете отправить видео, схемы, карты...
     validations:
       required: true
   - type: checkboxes
     attributes:
-      label: Agreements
-      description: Please agree to the following.
+      label: Соглашения
+      description: Пожалуйста, согласитесь со следующим.
       options:
-        - label: I use the latest version of Valmata ModPack.
-          required: true
-        - label: My version of Minecraft is supported Valmata ModPack.
+        - label: Я использую последнюю версию МодПака Valmata.
           required: true
   - type: textarea
     attributes:
