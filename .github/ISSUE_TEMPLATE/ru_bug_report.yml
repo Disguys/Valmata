@@ -10,8 +10,8 @@ body:
         
   - type: textarea
     attributes:
-      label: Ожидаемое поведение
-      description: То, чего вы ожидали.
+      label: lol
+      description: lol
     validations:
       required: true
   - type: textarea
