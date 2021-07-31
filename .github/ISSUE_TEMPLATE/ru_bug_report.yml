@@ -16,22 +16,24 @@ body:
       required: true
   - type: textarea
     attributes:
-      label: Актуальное поведение
-      description: Что на самом деле произошло.
+      label: Actual behavior
+      description: What actually happened.
     validations:
       required: true
   - type: textarea
     attributes:
-      label: Шаги по воспроизведению
-      description: Укажите все шаги, которые вы сделали, чтобы воспроизвести ошибку. Вы также можете отправить видео, схемы, карты...
+      label: Steps to reproduce
+      description: Cite any steps you did to reproduce the bug. You can also cite videos, schematics, maps...
     validations:
       required: true
   - type: checkboxes
     attributes:
-      label: Соглашения
-      description: Пожалуйста, согласитесь со следующим.
+      label: Agreements
+      description: Please agree to the following.
       options:
-        - label: Я использую последнюю версию МодПака Valmata.
+        - label: I use the latest version of Valmata ModPack.
+          required: true
+        - label: My version of Minecraft is supported Valmata ModPack.
           required: true
   - type: textarea
     attributes:
