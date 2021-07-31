@@ -1,38 +1,81 @@
----
-name: Bug report
-about: Create a report to help us improve
-title: ''
+name: Bug Report
+description: Report bugs or problems related to behavior.
 labels: bug
 assignees: Disguys
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Before reporting an issue, please make sure you are on the latest version of Sugarcane.
 
----
+  - type: textarea
+    attributes:
+      label: Expected behavior
+      description: What you expected to happen.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Actual behavior
+      description: What actually happened.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Steps to reproduce
+      description: Cite any steps you did to reproduce the bug. You can also cite videos, schematics, maps...
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Plugin list
+      description: All plugins running on the server. You can get this by running /plugins.
+    validations:
+      required: false
+  - type: checkboxes
+    attributes:
+      label: Agreements
+      description: Please agree to the following.
+      options:
+        - label: I am running the latest version of Sugarcane.
+          required: true
+        - label: I have searched for and ensured there isn't already an open issue regarding this.
+          required: true
+        - label: My version of Minecraft is supported by Sugarcane.
+          required: true
+  - type: textarea
+    attributes:
+      label: Sugarcane version
+      description: |
+        Run `/version` on your server and **paste** the full, unmodified output here.
+        "latest" is *not* a version; we require the output of `/version` so we can adequately track down the issue.
+        Additionally, do NOT provide a screenshot, you MUST paste the entire output.
+        <details>
+        <summary>Example</summary>
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+        ```
+        > version
+        [07:56:31 INFO]: This server is running Sugarcane version git-Sugarcane-"0af4854" (MC: 1.17) (Implementing API version 1.17-R0.1-SNAPSHOT) (Git: 0af4854 on 1.17/purpur)
+        Previous version: git-Sugarcane-"7a5f1f6" (MC: 1.17)
+        ```
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+        </details>
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Logs
+      description: |
+        Please include your server logs below.
+        Please use a pasting service like Pastebin, Hastebin or Github Gist..
+    validations:
+      required: true
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
-
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
-
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+  - type: textarea
+    attributes:
+      label: Other
+      description: |
+        Please include other helpful information below.
+        The more information we receive, the quicker and more effective we can be at finding the solution to the issue.
+    validations:
+      required: false
