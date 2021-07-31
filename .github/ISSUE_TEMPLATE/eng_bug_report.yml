@@ -33,8 +33,6 @@ body:
       options:
         - label: I use the latest version of Valmata ModPack.
           required: true
-        - label: My version of Minecraft is supported Valmata ModPack.
-          required: true
   - type: textarea
     attributes:
       label: Crash log
