@@ -1,4 +1,4 @@
-name: Bug Report RU
+name: Bug Report
 description: [RU] Сообщайте об ошибках или проблемах, связанных с модпаком.
 labels: bug
 assignees: Disguys
