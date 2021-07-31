@@ -1,50 +1,53 @@
-name: Bug report
-description: "[RU] Сообщайте об ошибках или проблемах, связанных с модпаком."
+name: Bug Report
+description: RU Report bugs or problems related to behavior.
 labels: bug
 assignees: Disguys
 body:
   - type: markdown
     attributes:
       value: |
-        "Прежде чем сообщать о проблеме, пожалуйста, убедитесь, что Вы используете последнюю версию МодПака Valmata."
+        Before reporting an issue, please make sure you are on the latest version of Valmata.
+        
   - type: textarea
     attributes:
-      label: "Ожидаемое поведение"
-      description: "То, чего вы ожидали."
+      label: Expected behavior
+      description: What you expected to happen.
     validations:
       required: true
   - type: textarea
     attributes:
-      label: "Актуальное поведение"
-      description: "Что на самом деле произошло."
+      label: Actual behavior
+      description: What actually happened.
     validations:
       required: true
   - type: textarea
     attributes:
-      label: "Шаги по воспроизведению"
-      description: "Укажите все шаги, которые вы сделали, чтобы воспроизвести ошибку. Вы также можете отправить видео, схемы, карты..."
+      label: Steps to reproduce
+      description: Cite any steps you did to reproduce the bug. You can also cite videos, schematics, maps...
     validations:
       required: true
   - type: checkboxes
     attributes:
-      label: "Соглашения"
-      description: "Пожалуйста, согласитесь со следующим."
+      label: Agreements
+      description: Please agree to the following.
       options:
-        - label: "Я использую последнюю версию МодПака Valmata."
+        - label: I use the latest version of Valmata ModPack.
+          required: true
+        - label: My version of Minecraft is supported Valmata ModPack.
           required: true
   - type: textarea
     attributes:
-      label: "Краш лог"
+      label: Crash log
       description: |
-        "Пожалуйста, отправьте свой краш лог ниже."
-        "Пожалуйста, используйте службу вставки, такие как: Pastebin, Hastebin или Github Gist."
+        Please send your crash log below.
+        Please use a pasting service like Pastebin, Hastebin or Github Gist..
     validations:
       required: false
   - type: textarea
     attributes:
-      label: "Другое"
+      label: Other
       description: |
-        "Пожалуйста, включите другую полезную информацию ниже."
-        "Чем больше информации я получаю, тем быстрее и эффективнее я смогу найти решение проблемы."
+        Please include other helpful information below.
+        The more information i receive, the quicker and more effective i can be at finding the solution to the issue.
     validations:
       required: false
