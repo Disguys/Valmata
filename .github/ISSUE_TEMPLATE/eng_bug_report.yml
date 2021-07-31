@@ -7,7 +7,7 @@ body:
     attributes:
       value: |
         Before reporting an issue, please make sure you are on the latest version of Valmata.
-
+        
   - type: textarea
     attributes:
       label: Expected behavior
@@ -43,7 +43,6 @@ body:
         Please use a pasting service like Pastebin, Hastebin or Github Gist..
     validations:
       required: false
-
   - type: textarea
     attributes:
       label: Other
