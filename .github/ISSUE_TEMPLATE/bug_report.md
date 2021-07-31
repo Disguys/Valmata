@@ -1,7 +1,15 @@
+---
+name: Bug report
+about: Create a report to help us improve
+title: "[BUG]"
+labels: bug
+assignees: Disguys
+
+---
+
 name: Bug Report
 description: Report bugs or problems related to behavior.
 labels: bug
-assignees: Disguys
 body:
   - type: markdown
     attributes:
