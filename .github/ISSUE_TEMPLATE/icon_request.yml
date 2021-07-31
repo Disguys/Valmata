@@ -1,0 +1,31 @@
+name: Icon Request
+description: Requesting an icon for the server | CraftPresence Mod
+labels: bug
+assignees: Disguys
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Before asking to add an icon for the server to the CraftPresence mod, make sure that it is definitely not there.
+        
+  - type: textarea
+    attributes:
+      label: Server name and IP
+      description: Send it server name and IP
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Server icon
+      description: Send it server icon minimum size 512x512 and .png format
+    validations:
+      required: true
+  - type: checkboxes
+    attributes:
+      label: Agreements
+      description: Please agree to the following.
+      options:
+        - label: I made sure that this server icon is missing
+          required: true
+        - label: I made icon is size 512x512 and .png format
+          required: true          
