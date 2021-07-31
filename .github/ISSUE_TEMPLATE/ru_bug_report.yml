@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Before reporting an issue, please make sure you are on the latest version of Valmata.
+        Прежде чем сообщать о проблеме, пожалуйста, убедитесь, что Вы используете последнюю версию МодПака Valmata.
         
   - type: textarea
     attributes:
