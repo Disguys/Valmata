@@ -22,7 +22,7 @@
 </div>      
 
 # Try it for yourself
-* **[CurseForge](https://www.curseforge.com/minecraft/modpacks/valmata)** -  Download last version ModPack for Minecraft 1.17.1.
+* **[CurseForge](https://www.curseforge.com/minecraft/modpacks/valmata)** - All information about Valmata ModPack.
 * **[GitHub Release](https://github.com/Disguys/Valmata/releases)** - Download last version ModPack for Minecraft 1.17.1.
 
 # Contributors
