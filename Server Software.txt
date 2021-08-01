@@ -1,0 +1,5 @@
+⚡ ENG:
+Download server software https://papermc.io/downloads#Paper-1.17, after that, rename your file to paper.jar.
+
+⚡ RU:
+Установите серерное программное обеспечение https://papermc.io/downloads#Paper-1.17, после этого переименуйте свой файл в paper.jar.
