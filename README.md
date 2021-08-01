@@ -26,5 +26,5 @@
 * **[GitHub Release](https://github.com/Disguys/Valmata/releases)** - Download last version ModPack for Minecraft 1.17.1.
 
 # Contributors
-![Contributors](https://media.discordapp.net/attachments/517734448008134686/871076866583310366/help.png)
+![Contributors](https://media.discordapp.net/attachments/517734448008134686/871269628297490492/21df.png)
          
