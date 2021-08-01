@@ -22,8 +22,8 @@
 </div>      
 
 # Try it for yourself
-* **[CurseForge](https://www.curseforge.com/minecraft/modpacks/valmata)** - All information about Valmata ModPack.
-* **[GitHub Release](https://github.com/Disguys/Valmata/releases)** - Download last version ModPack for Minecraft 1.17.1.
+* **[CurseForge](https://www.curseforge.com/minecraft/modpacks/valmata)** - Download last version ModPack for Minecraft 1.17.1 on CurseForge.
+* **[GitHub Release](https://github.com/Disguys/Valmata/releases)** - Download last version ModPack for Minecraft 1.17.1 on GitHub.
 
 # Contributors
 ![Contributors](https://media.discordapp.net/attachments/517734448008134686/871269628297490492/21df.png)
