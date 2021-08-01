@@ -1,6 +1,6 @@
 name: Icon Request
 description: Requesting an icon for the server | CraftPresence Mod
-labels: bug
+labels: icon request for server
 assignees: Disguys
 body:
   - type: markdown
