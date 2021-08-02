@@ -17,7 +17,7 @@
         <img alt="GitHub Issues" src="https://img.shields.io/github/issues/Disguys/Valmata?color=blue&label=modpack%20issues&logo=github&style=for-the-badge">
     </a>        
     <a href="https://github.com/Disguys/Valmata/releases">
-        <img alt="Current Version" src="https://img.shields.io/github/v/release/Disguys/Valmata?label=Current%20version&logo=github&style=for-the-badge"> 
+        <img alt="Current Version" src="https://img.shields.io/github/v/release/disguys/valmata?color=blueviolet&label=current%20version&logo=github&style=for-the-badge"> 
     </a>
 </div>      
 
