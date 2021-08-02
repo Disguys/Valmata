@@ -1,7 +1,7 @@
 <div align=center>
     <img src="https://media.discordapp.net/attachments/517734448008134686/871031824745365505/255629d1d532674f.png" width="1920">
     <br /><br />
-    <h1>✅ ModPack for the game Minecraft on version 1.17.1.</h1>
+    <h1>✅ МодПак для игры Minecraft на версии 1.17.1.</h1>
     <a href="https://www.curseforge.com/minecraft/modpacks/valmata">
         <img alt="CurseForge Download" src="https://img.shields.io/website?down_message=Download%20ModPack&label=CurseForge&logo=curseforge&style=for-the-badge&url=https%3A%2F%2Fwww.curseforge.com%2Fminecraft%2Fmodpacks%2Fvalmata">
     </a>
@@ -21,10 +21,10 @@
     </a>
 </div>      
 
-# Try it for yourself
-* **[CurseForge](https://www.curseforge.com/minecraft/modpacks/valmata)** - Download last version ModPack for Minecraft 1.17.1 on CurseForge.
-* **[GitHub Release](https://github.com/Disguys/Valmata/releases)** - Download last version ModPack for Minecraft 1.17.1 on GitHub.
+# Попробуйте сами
+* **[CurseForge](https://www.curseforge.com/minecraft/modpacks/valmata)** - Скачать последнюю версию МодПака для Minecraft 1.17.1 на CurseForge.
+* **[GitHub Release](https://github.com/Disguys/Valmata/releases)** - Скачать последнюю версию МодПака для Minecraft 1.17.1 на GitHub.
 
-# Contributors
+# Помощь
 ![Contributors](https://media.discordapp.net/attachments/517734448008134686/871269628297490492/21df.png)
          
