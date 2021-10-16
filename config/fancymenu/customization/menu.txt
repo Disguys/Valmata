@@ -1,0 +1,88 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = bottom-left
+  shadow = true
+  x = 2
+  actionid = 2a9a9fd1-2ca6-4d48-88a1-139804be014b1626892402006
+  action = addtext
+  y = -10
+  scale = 1.0
+  alignment = left
+  value = Minecraft 1.17.1/Fabric (загружено %loadedmods% модов)
+}
+
+customization {
+  orientation = bottom-left
+  shadow = true
+  x = 2
+  actionid = f75ee6a0-9958-4d4b-be1b-a152354fa0941626892449574
+  action = addtext
+  y = -20
+  scale = 1.0
+  alignment = left
+  value = Valmata ModPack 1.0
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  backgroundhovered = config\fancymenu\customization\discord-click.png
+  label = 
+  loopbackgroundanimations = true
+  x = -124
+  width = 20
+  actionid = b6b286bc-76c0-41c2-b14b-ef33186a4b2d1629746758724
+  action = addbutton
+  y = -27
+  backgroundnormal = config\fancymenu\customization\discord.png
+  value = https://discord.gg/az4WxZSeDU
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  backgroundhovered = config\fancymenu\customization\curseforge-click.png
+  label = 
+  loopbackgroundanimations = true
+  x = 104
+  width = 20
+  actionid = 20881927-e7e1-4292-b347-d69ffea4d3401629746758732
+  action = addbutton
+  y = -27
+  backgroundnormal = config\fancymenu\customization\curseforge.png
+  value = https://www.curseforge.com/members/disguyswatch/projects
+  height = 20
+}
+
+customization {
+  showname = false
+  orientation = mid-left
+  crouching = false
+  x = 41
+  slim = true
+  actionid = 5fb6fcf0-8668-44d0-bdd2-0ada49c6826c1626912074516
+  action = addentity
+  y = 31
+  scale = 70
+  playername = %playername%
+  capepath = config/fancymenu/capes/migrator-cape.png
+  parrot = false
+}
+
