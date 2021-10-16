@@ -1,0 +1,39 @@
+type = hud
+
+customization-meta {
+  backgroundimage = config/drippyloadingscreen/customization/background.png
+  renderorder = foreground
+}
+
+customization {
+  x = 1
+  action = editlogo
+  y = -1
+}
+
+customization {
+  orientation = bottom-right
+  shadow = true
+  x = -3
+  textcolor = #ffffff
+  action = addtext
+  actionid = 43b2eba6-8efa-4edb-b038-6fe457bdf0781629748381184
+  y = -3
+  scale = 1.0
+  alignment = left
+  value = Valmata ModPack 1 .0
+}
+
+customization {
+  orientation = bottom-right
+  shadow = true
+  x = -3
+  textcolor = #ffffff
+  action = addtext
+  actionid = 5ce64b6d-712f-4a9a-9509-e9c7a0d331701629748446478
+  y = -13
+  scale = 1.0
+  alignment = left
+  value = RAM: %usedram% /  %maxram%
+}
+
