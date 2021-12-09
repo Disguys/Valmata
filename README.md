@@ -23,10 +23,12 @@
 
 # Try it for yourself
 
-Supports: CurseForge Launcher, GDLauncher and Minecraft.net Launcher. [Install instructions](https://github.com/Disguys/Valmata/wiki)
+Supports: CurseForge Launcher, GDLauncher and Minecraft.net Launcher.
 
-* **[CurseForge](https://www.curseforge.com/minecraft/modpacks/valmata)** - Download last version ModPack for Minecraft 1.17.1 on CurseForge (For CF Launcher & GDLauncher).
-* **[GitHub Release](https://github.com/Disguys/Valmata/releases)** - Download last version ModPack for Minecraft 1.17.1 on GitHub (For Minecraft.net Launcher).
+`>` [See GitHub Wiki for install insturction](https://github.com/Disguys/Valmata/wiki).
+
+* **[CurseForge](https://www.curseforge.com/minecraft/modpacks/valmata)** - Download last version ModPack for Minecraft 1.17.1 on CurseForge.
+* **[GitHub Release](https://github.com/Disguys/Valmata/releases)** - Download last version ModPack for Minecraft 1.17.1 on GitHub.
 
 # Contributors
 ![Contributors](https://media.discordapp.net/attachments/517734448008134686/871269628297490492/21df.png)
