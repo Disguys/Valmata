@@ -25,7 +25,7 @@
 
 Supports: CurseForge Launcher, GDLauncher and Minecraft.net Launcher. [Install instructions](https://github.com/Disguys/Valmata/wiki)
 
-* **[CurseForge](https://www.curseforge.com/minecraft/modpacks/valmata)** - Download last version ModPack for Minecraft 1.17.1 on CurseForge (For CurseForge Launcher & GDLauncher).
+* **[CurseForge](https://www.curseforge.com/minecraft/modpacks/valmata)** - Download last version ModPack for Minecraft 1.17.1 on CurseForge (For CF Launcher & GDLauncher).
 * **[GitHub Release](https://github.com/Disguys/Valmata/releases)** - Download last version ModPack for Minecraft 1.17.1 on GitHub (For Minecraft.net Launcher).
 
 # Contributors
