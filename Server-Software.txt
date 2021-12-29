@@ -1,0 +1,5 @@
+⚡ ENG:
+Download server software https://papermc.io/downloads#Paper-1.18, after that, rename your file to paper.jar or install server pack through GitHub Releases.
+
+⚡ RU:
+Установите серерное программное обеспечение https://papermc.io/downloads#Paper-1.18, после этого переименуйте свой файл в paper.jar или установите серверный пак через GitHub Releases.
