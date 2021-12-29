@@ -1,7 +1,7 @@
 <div align=center>
     <img src="https://media.discordapp.net/attachments/517734448008134686/871031824745365505/255629d1d532674f.png" width="1920">
     <br /><br />
-    <h1>✅ Valmata Server Pack for the game Minecraft on version 1.17.1.</h1>
+    <h1>✅ Valmata Server Pack for game Minecraft on version 1.17.1</h1>
     <a href="https://www.curseforge.com/minecraft/modpacks/valmata">
         <img alt="CurseForge Download" src="https://img.shields.io/website?down_message=Download%20ModPack&label=CurseForge&logo=curseforge&style=for-the-badge&url=https%3A%2F%2Fwww.curseforge.com%2Fminecraft%2Fmodpacks%2Fvalmata">
     </a>
