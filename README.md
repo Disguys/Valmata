@@ -1,7 +1,7 @@
 <div align=center>
     <img src="https://media.discordapp.net/attachments/517734448008134686/871031824745365505/255629d1d532674f.png" width="1920">
     <br /><br />
-    <h1>✅ ModPack for the game Minecraft on version 1.17.1</h1>
+    <h1>✅ Модпак для игры Minecraft на версии 1.18.1</h1>
     <a href="https://www.curseforge.com/minecraft/modpacks/valmata">
         <img alt="CurseForge Download" src="https://cf.way2muchnoise.eu/full_valmata_downloads%20on%20Curseforge.svg?badge_style=for_the_badge">
     </a>
@@ -21,15 +21,14 @@
     </a>
 </div>      
 
-# Try it for yourself
+# Попробуйте сами
 
-Supports: CurseForge Launcher, GDLauncher and Minecraft.net Launcher.
+Поддерживаются лаунчеры: CurseForge, GDLauncher и Minecraft.net.
 
-`>` [See GitHub Wiki for install insturction](https://github.com/Disguys/Valmata/wiki).
+`>` [Смотрите GitHub Wiki для получения инструкции по установке](https://github.com/Disguys/Valmata/wiki).
 
-* **[CurseForge](https://www.curseforge.com/minecraft/modpacks/valmata)** - Download last version ModPack for Minecraft 1.17.1 on CurseForge.
-* **[GitHub Release](https://github.com/Disguys/Valmata/releases)** - Download last version ModPack for Minecraft 1.17.1 on GitHub.
+* **[CurseForge](https://www.curseforge.com/minecraft/modpacks/valmata)** - Скачать последнюю версию МодПака для Minecraft 1.17.1 на CurseForge.
+* **[GitHub Release](https://github.com/Disguys/Valmata/releases)** - Скачать последнюю версию МодПака для Minecraft 1.17.1 на GitHub.
 
-# Contributors
+# Помощь в создании
 ![Contributors](https://media.discordapp.net/attachments/517734448008134686/871269628297490492/21df.png)
-         
