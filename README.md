@@ -1,7 +1,7 @@
 <div align=center>
     <img src="https://media.discordapp.net/attachments/517734448008134686/871031824745365505/255629d1d532674f.png" width="1920">
     <br /><br />
-    <h1>✅ ModPack for the game Minecraft on version 1.17.1</h1>
+    <h1>✅ ModPack for the game Minecraft on version 1.18.1</h1>
     <a href="https://www.curseforge.com/minecraft/modpacks/valmata">
         <img alt="CurseForge Download" src="https://cf.way2muchnoise.eu/full_valmata_downloads%20on%20Curseforge.svg?badge_style=for_the_badge">
     </a>
