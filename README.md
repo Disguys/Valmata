@@ -21,7 +21,7 @@
     </a>
 </div>      
 
-![1.18](https://cdn.discordapp.com/attachments/866474001089036308/928249793594155028/-1.png)
+![1.18](https://cdn.discordapp.com/attachments/517734448008134686/922201832653209600/1.18.png)
 # Попробуйте сами
 
 Поддерживаются лаунчеры: CurseForge, GDLauncher и Minecraft.net.
