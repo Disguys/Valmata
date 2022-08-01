@@ -1,7 +1,7 @@
 <div align=center>
     <img src="https://media.discordapp.net/attachments/517734448008134686/871031824745365505/255629d1d532674f.png" width="1920">
     <br /><br />
-    <h1>✅ ModPack for the game Minecraft on version 1.18.1</h1>
+    <h1>✅ ModPack for the game Minecraft on version 1.18.2</h1>
     <a href="https://www.curseforge.com/minecraft/modpacks/valmata">
         <img alt="CurseForge Download" src="https://cf.way2muchnoise.eu/full_valmata_downloads%20on%20Curseforge.svg?badge_style=for_the_badge">
     </a>
@@ -27,8 +27,8 @@ Supports: CurseForge Launcher, GDLauncher and Minecraft.net Launcher.
 
 `>` [See GitHub Wiki for install insturction](https://github.com/Disguys/Valmata/wiki).
 
-* **[CurseForge](https://www.curseforge.com/minecraft/modpacks/valmata)** - Download last version ModPack for Minecraft 1.18.1 on CurseForge.
-* **[GitHub Release](https://github.com/Disguys/Valmata/releases)** - Download last version ModPack for Minecraft 1.18.1 on GitHub.
+* **[CurseForge](https://www.curseforge.com/minecraft/modpacks/valmata)** - Download last version ModPack for Minecraft 1.18.2 on CurseForge.
+* **[GitHub Release](https://github.com/Disguys/Valmata/releases)** - Download last version ModPack for Minecraft 1.18.2 on GitHub.
 
 # Contributors
 ![Contributors](https://media.discordapp.net/attachments/517734448008134686/871269628297490492/21df.png)
