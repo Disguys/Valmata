@@ -21,7 +21,6 @@
     </a>
 </div>      
 
-![1.18](https://cdn.discordapp.com/attachments/517734448008134686/922201832653209600/1.18.png)
 # Try it for yourself
 
 Supports: CurseForge Launcher, GDLauncher and Minecraft.net Launcher.
