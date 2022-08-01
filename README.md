@@ -23,7 +23,7 @@
 
 # Try it for yourself
 
-Supports: CurseForge Launcher, GDLauncher and Minecraft.net Launcher.
+Supports: CurseForge Launcher, GDLauncher and Minecraft.net Launchers.
 
 `>` [See GitHub Wiki for install insturction](https://github.com/Disguys/Valmata/wiki).
 
