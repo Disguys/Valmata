@@ -23,7 +23,7 @@
 
 # Try it for yourself
 
-Supports: PolyMC, GDLauncher, ATLauncher, CurseForge Launcher and Minecraft.net Launcher.
+Supported: [PolyMC](https://polymc.org), [GDLauncher](https://gdevs.io), [ATLauncher](https://atlauncher.com), [CurseForge Launcher](https://download.curseforge.com) and [Minecraft.net Launcher](https://www.minecraft.net).
 
 `>` [See GitHub Wiki for install insturction](https://github.com/Disguys/Valmata/wiki).
 
