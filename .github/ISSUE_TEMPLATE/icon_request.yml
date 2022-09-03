@@ -25,7 +25,7 @@ body:
       label: Agreements
       description: Please agree to the following.
       options:
-        - label: [I made sure that this server icon is missing in list](https://github.com/Disguys/Valmata/wiki/%5BENG%5D-Supported-icons-for-servers)
+        - label: I made sure that this server icon is missing in list https://github.com/Disguys/Valmata/wiki/%5BENG%5D-Supported-icons-for-servers
           required: true
         - label: I made icon is size 512x512 and .png format
           required: true          
