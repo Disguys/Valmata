@@ -34,7 +34,6 @@ Supported: [PolyMC](https://polymc.org), [GDLauncher](https://gdevs.io), [CurseF
 * **[Modrinth](https://modrinth.com/modpack/valmata)** - Download last version ModPack for Minecraft 1.18.2 or 1.19.2 on Modrinth.
 * **[CurseForge](https://www.curseforge.com/minecraft/modpacks/valmata)** - Download last version ModPack for Minecraft 1.18.2 or 1.19.2 on CurseForge.
 * **[GitHub Releases](https://github.com/Disguys/Valmata/releases)** - Download last version ModPack for Minecraft 1.18.2 or 1.19.2 on GitHub Releases.
-
-# Contributors
+***
 ![Contributors](https://cdn.discordapp.com/attachments/312979296648036353/1005909922761936916/contributors.png)
          
