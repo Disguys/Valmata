@@ -27,9 +27,9 @@
 
 # Try it for yourself
 
-Supported: [PolyMC](https://polymc.org), [GDLauncher](https://gdevs.io), [CurseForge Launcher](https://download.curseforge.com), [ATLauncher](https://atlauncher.com), [MultiMC](https://multimc.org/) and [Minecraft.net Launcher](https://www.minecraft.net).
+**Supported:** [PolyMC](https://polymc.org), [GDLauncher](https://gdevs.io), [CurseForge Launcher](https://download.curseforge.com), [ATLauncher](https://atlauncher.com), [MultiMC](https://multimc.org/) and [Minecraft.net Launcher](https://www.minecraft.net).
 
-`>` [See GitHub Wiki for install insturction](https://github.com/Disguys/Valmata/wiki).
+`>` **[See GitHub Wiki for install insturction](https://github.com/Disguys/Valmata/wiki).**
 
 * **[Modrinth](https://modrinth.com/modpack/valmata)** - Download last version ModPack for Minecraft 1.18.2 or 1.19.2 on Modrinth.
 * **[CurseForge](https://www.curseforge.com/minecraft/modpacks/valmata)** - Download last version ModPack for Minecraft 1.18.2 or 1.19.2 on CurseForge.
