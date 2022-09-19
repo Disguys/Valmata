@@ -1,5 +1,5 @@
 {
-# Mod Menu Translation
+	### Mod Menu Translation ###
 	"modmenu.dropInfo.line1":"§bHelp with mod list",
 	"modmenu.dropInfo.line2":"§d● §7- §fCustomization; §a● §7- §fOptimization; §c● §7- §fOptiFine Replacement; §6● §7- §fLibraries.",
 	"modmenu.summaryTranslation.slight-gui-modifications":"§d● §7Adds various modifications for GUI.",
@@ -21,7 +21,9 @@
 	"modmenu.summaryTranslation.boatiview":"§d● §7Shows your hands while you're sailing on the boat.",
 	"modmenu.descriptionTranslation.boatiview":"§d● §7Shows your hands while you're sailing on the boat.",
 	"modmenu.summaryTranslation.bookshelf":"§6● §7API Library for mods.",
-	"modmenu.descriptionTranslation.bookshelf":"§6● §7API Library for mods.",	
+	"modmenu.descriptionTranslation.bookshelf":"§6● §7API Library for mods.",
+	"modmenu.summaryTranslation.borderlessmining":"§d● §7Добавляет поддержку полноэкранного режима без рамок.",
+	"modmenu.descriptionTranslation.borderlessmining":"§d● §7Добавляет поддержку полноэкранного режима без рамок.",
 	"modmenu.summaryTranslation.caffeineconfig":"§6● §7API Library for mods.",
 	"modmenu.descriptionTranslation.caffeineconfig":"§6● §7API Library for mods.",
 	"modmenu.summaryTranslation.capes":"§d● §7Will allow you to see capes: OptiFine, LabyMod, MinecraftCapes and etc.",
@@ -224,7 +226,7 @@
 	"modmenu.descriptionTranslation.window_title_changer":"§d● §7Changes the title and icon of the Minecraft window.",	
 	"modmenu.summaryTranslation.zoomify":"§c● §7Allows you to use zoom even better than in OptiFine.",
 	"modmenu.descriptionTranslation.zoomify":"§c● §7Allows you to use zoom even better than in OptiFine.",
-# Translation for additional mods
+	### Translation for additional mods ###
 	"modmenu.summaryTranslation.xaerominimap":"§d● §7Adds a minimap.",
 	"modmenu.descriptionTranslation.xaerominimap":"§d● §7Adds a minimap.",
 	"modmenu.summaryTranslation.xaeroworldmap":"§d● §7Adds a full-screen map.",
