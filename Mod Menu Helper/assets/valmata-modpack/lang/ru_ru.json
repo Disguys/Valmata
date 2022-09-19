@@ -1,5 +1,5 @@
 {
-# Перевод ModMenu
+	### Перевод Mod Menu ###
 	"modmenu.dropInfo.line1":"§bПомощь по списку модов",
 	"modmenu.dropInfo.line2":"§d● §7- §fКастомизация; §a● §7- §fОптимизация; §c● §7- §fЗамена OptiFine; §6● §7- §fБиблиотеки.",
 	"modmenu.summaryTranslation.slight-gui-modifications":"§d● §7Добавляет различные модификации графического интерфейса.",
@@ -226,7 +226,7 @@
 	"modmenu.descriptionTranslation.window_title_changer":"§d● §7Изменяет заголовок и значок окна Minecraft.",
 	"modmenu.summaryTranslation.zoomify":"§c● §7Позволяет использовать зум даже лучше, чем в OptiFine.",
 	"modmenu.descriptionTranslation.zoomify":"§c● §7Позволяет использовать зум даже лучше, чем в OptiFine.",
-# Перевод для дополнительных модов
+	### Перевод для дополнительных модов ###
 	"modmenu.summaryTranslation.xaerominimap":"§d● §7Добавляет мини-карту.",
 	"modmenu.descriptionTranslation.xaerominimap":"§d● §7Добавляет мини-карту.",
 	"modmenu.summaryTranslation.xaeroworldmap":"§d● §7Добавляет полноэкранную карту.",
@@ -255,7 +255,7 @@
 	"modmenu.descriptionTranslation.emi":"§d● §7Добавляет возможность просмотреть все доступные предметы в игре, а также крафты этих предметов.",
 	"modmenu.summaryTranslation.ecs":"§d● §7Добавляет возможность быстро переключаться между нагрудником и элитрами по нажатию клавиши.",
 	"modmenu.descriptionTranslation.ecs":"§d● §7Добавляет возможность быстро переключаться между нагрудником и элитрами по нажатию клавиши.",	
-# Перевод Sodium
+	### Перевод для Sodium ###
 	"sodium.option_impact.low":"Низкое",
 	"sodium.option_impact.medium":"Среднее",
 	"sodium.option_impact.high":"Высокое",
