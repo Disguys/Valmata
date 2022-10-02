@@ -31,7 +31,7 @@ body:
       label: Agreements
       description: Please agree to the following.
       options:
-        - label: I use the latest version of Valmata ModPack.
+        - label: I use the latest version of Valmata ModPack 1.7
           required: true
   - type: textarea
     attributes:
