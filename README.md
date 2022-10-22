@@ -27,7 +27,7 @@
 
 # Try it for yourself
 
-**Supported:** [PolyMC](https://polymc.org), [GDLauncher](https://gdevs.io), [CurseForge Launcher](https://download.curseforge.com), [ATLauncher](https://atlauncher.com), [MultiMC](https://multimc.org/) and [Minecraft.net Launcher](https://www.minecraft.net).
+**Supported:** [GDLauncher](https://gdevs.io), [Prism Launcher](https://prismlauncher.org), [CurseForge Launcher](https://download.curseforge.com), [ATLauncher](https://atlauncher.com), [MultiMC](https://multimc.org/) and [Minecraft.net Launcher](https://www.minecraft.net).
 
 `>` **[See GitHub Wiki for install insturction](https://github.com/Disguys/Valmata/wiki).**
 
