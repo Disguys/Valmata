@@ -1,323 +1,486 @@
 {
-	### Перевод Mod Menu ###
+	### Перевод для Mod Menu ###
 	"modmenu.dropInfo.line1":"§bПомощь по списку модов",
 	"modmenu.dropInfo.line2":"§d● §7- §fКастомизация; §a● §7- §fОптимизация; §c● §7- §fЗамена OptiFine; §6● §7- §fБиблиотеки.",
+	###
 	"modmenu.summaryTranslation.slight-gui-modifications":"§d● §7Добавляет различные модификации графического интерфейса.",
 	"modmenu.descriptionTranslation.slight-gui-modifications":"§d● §7Добавляет различные модификации графического интерфейса.",
+	###
+	"modmenu.summaryTranslation.accuratemaps":"§d● §7Изменяет цвет ванильной карты, чтобы она более точно соответствовала игровым цветам.",
+	"modmenu.descriptionTranslation.accuratemaps":"§d● §7Изменяет цвет ванильной карты, чтобы она более точно соответствовала игровым цветам.",
+	###
 	"modmenu.summaryTranslation.advancementinfo":"§d● §7Упрощает изучение и выполнение достижений, вы всегда будете знать, что пропустили.",
-	"modmenu.descriptionTranslation.advancementinfo":"§d● §7Упрощает изучение и выполнение достижений, вы всегда будете знать, что пропустили.",	
+	"modmenu.descriptionTranslation.advancementinfo":"§d● §7Упрощает изучение и выполнение достижений, вы всегда будете знать, что пропустили.",
+	###
 	"modmenu.summaryTranslation.animatica":"§c● §7Добавляет поддержку формата анимированных текстур OptiFine.",
 	"modmenu.descriptionTranslation.animatica":"§c● §7Добавляет поддержку формата анимированных текстур OptiFine.",
+	###
 	"modmenu.summaryTranslation.appleskin":"§d● §7Добавляет различные улучшения в интерфейсе голода.",
 	"modmenu.descriptionTranslation.appleskin":"§d● §7Добавляет различные улучшения в интерфейсе голода.",
+	###
 	"modmenu.summaryTranslation.architectury":"§6● §7API Библиотека для модов.",
 	"modmenu.descriptionTranslation.architectury":"§6● §7API Библиотека для модов.",
+	###
 	"modmenu.summaryTranslation.auudio":"§6● §7API Библиотека для модов.",
 	"modmenu.descriptionTranslation.auudio":"§6● §7API Библиотека для модов.",
+	###
 	"modmenu.summaryTranslation.bettermounthud":"§d● §7Улучшает игровой HUD во время езды на лошади, осле.\n§7Показывает ваш голод, а также количество EXP на лошади, осле.",
 	"modmenu.descriptionTranslation.bettermounthud":"§d● §7Улучшает игровой HUD во время езды на лошади, осле.\n§7Показывает ваш голод, а также количество EXP на лошади, осле.",
+	###
+	"modmenu.summaryTranslation.brb":"§d● §7Добавляет возможность посмотреть каждый крафт в книге рецептов и не только.",
+	"modmenu.descriptionTranslation.brb":"§d● §7Добавляет возможность посмотреть каждый крафт в книге рецептов и не только.",
+	###
+	"modmenu.summaryTranslation.betterstats":"§d● §7Добавляет новый улучшенный экран статистики, который проще в использовании и имеет больше полезных функций.",
+	"modmenu.descriptionTranslation.betterstats":"§d● §7Добавляет новый улучшенный экран статистики, который проще в использовании и имеет больше полезных функций.",
+	###
 	"modmenu.summaryTranslation.betterf3":"§d● §7Заменяет оригинальный F3 HUD в Minecraft на настраиваемый, более удобно-читаемый HUD.",
-	"modmenu.descriptionTranslation.betterf3":"§d● §7Заменяет оригинальный F3 HUD в Minecraft на настраиваемый, более удобно-читаемый HUD.",	
+	"modmenu.descriptionTranslation.betterf3":"§d● §7Заменяет оригинальный F3 HUD в Minecraft на настраиваемый, более удобно-читаемый HUD.",
+	###
 	"modmenu.summaryTranslation.boatiview":"§d● §7Позволяет игроку видеть предмет, который он держит в руке во время поездки на лодке.",
 	"modmenu.descriptionTranslation.boatiview":"§d● §7Позволяет игроку видеть предмет, который он держит в руке во время поездки на лодке.",
+	###
 	"modmenu.summaryTranslation.bookshelf":"§6● §7API Библиотека для модов.",
 	"modmenu.descriptionTranslation.bookshelf":"§6● §7API Библиотека для модов.",
+	###
 	"modmenu.summaryTranslation.borderlessmining":"§d● §7Добавляет поддержку полноэкранного режима без рамок.",
 	"modmenu.descriptionTranslation.borderlessmining":"§d● §7Добавляет поддержку полноэкранного режима без рамок.",
+	###
 	"modmenu.summaryTranslation.caffeineconfig":"§6● §7API Библиотека для модов.",
 	"modmenu.descriptionTranslation.caffeineconfig":"§6● §7API Библиотека для модов.",
+	###
 	"modmenu.summaryTranslation.capes":"§d● §7Позволит вам использовать плащи: OptiFine, LabyMod, MinecraftCapes и не только.",
 	"modmenu.descriptionTranslation.capes":"§d● §7Позволит вам использовать плащи: OptiFine, LabyMod, MinecraftCapes и не только.",
+	###
 	"modmenu.summaryTranslation.chat_heads":"§d● §7Добавляет головы игроков рядом с сообщениями из чата.",
 	"modmenu.descriptionTranslation.chat_heads":"§d● §7Добавляет головы игроков рядом с сообщениями из чата.",
+	###
 	"modmenu.summaryTranslation.cherishedworlds":"§d● §7Добавляет возможность добавлять в избранное определенные миры и сервера.",
 	"modmenu.descriptionTranslation.cherishedworlds":"§d● §7Добавляет возможность добавлять в избранное определенные миры и сервера.",
+	###
 	"modmenu.summaryTranslation.citresewn":"§c● §7Добавляет поддержку формата пользовательских текстур предметов из ресурспаков OptiFine.",
 	"modmenu.descriptionTranslation.citresewn":"§c● §7Добавляет поддержку формата пользовательских текстур предметов из ресурспаков OptiFine.",
+	###
 	"modmenu.summaryTranslation.citresewn-defaults":"§c● §7Типы и условия по умолчанию для CIT Resewn.",
 	"modmenu.descriptionTranslation.citresewn-defaults":"§c● §7Типы и условия по умолчанию для CIT Resewn.",
+	###
 	"modmenu.summaryTranslation.cleardespawn":"§d● §7Заставляет выпадающие предметы мигать, когда они исчезают.\nПо умолчанию это происходит, когда у предмета остается около 120 секунд.",
 	"modmenu.descriptionTranslation.cleardespawn":"§d● §7Заставляет выпадающие предметы мигать, когда они вот-вот исчезнут.\nПо умолчанию это происходит, когда у предмета остается около 120 секунд до пропадания, и мигание постепенно ускоряется по мере того, как таймер уменьшается.",
+	###
 	"modmenu.summaryTranslation.clear-skies":"§d● §7Убирает полосу на горизонте неба.",
 	"modmenu.descriptionTranslation.clear-skies":"§d● §7Убирает полосу на горизонте неба.",
+	###
 	"modmenu.summaryTranslation.clickthrough":"§d● §7Поможет вам получить доступ к сундукам, шалкер-боксам, бочкам, на которых расположены таблички или рамки для предметов.",
 	"modmenu.descriptionTranslation.clickthrough":"§d● §7Поможет вам получить доступ к сундукам, шалкер-боксам, бочкам, а также воронкам и раздатчикам, на которых расположены таблички или рамки для предметов.",
+	###
+	"modmenu.summaryTranslation.cloth-config-lite":"§6● §7API Библиотека для модов.",
+	"modmenu.descriptionTranslation.cloth-config-lite":"§6● §7API Библиотека для модов.",
+	###
 	"modmenu.summaryTranslation.colormatic":"§c● §7Добавляет поддержку формата пользовательских цветов из ресурспаков OptiFine.",
 	"modmenu.descriptionTranslation.colormatic":"§c● §7Добавляет поддержку формата пользовательских цветов из ресурспаков OptiFine.",
+	###
 	"modmenu.summaryTranslation.cmdkeybind":"§d● §7Добавляет возможность забиндить на какую-либо кнопку часто использованную вами команду.",
 	"modmenu.descriptionTranslation.cmdkeybind":"§d● §7Добавляет возможность забиндить на какую-либо кнопку часто использованную вами команду.",
+	###
 	"modmenu.summaryTranslation.completeconfig":"§6● §7API Библиотека для модов.",
 	"modmenu.descriptionTranslation.completeconfig":"§6● §7API Библиотека для модов.",
+	###
 	"modmenu.summaryTranslation.completeconfig-base":"§6● §7API Библиотека для модов.",
 	"modmenu.descriptionTranslation.completeconfig-base":"§6● §7API Библиотека для модов.",
+	###
 	"modmenu.summaryTranslation.completeconfig-gui-cloth":"§6● §7API Библиотека для модов.",
 	"modmenu.descriptionTranslation.completeconfig-gui-cloth":"§6● §7API Библиотека для модов.",
+	###
 	"modmenu.summaryTranslation.continuity":"§c● §7Добавляет поддержку формата соединенных текстур OptiFine.",
 	"modmenu.descriptionTranslation.continuity":"§c● §7Добавляет поддержку формата соединенных текстур OptiFine.",
+	###
 	"modmenu.summaryTranslation.controlling":"§d● §7Добавляет возможность поиска привязанных клавиш по их названию в меню «назначения клавиш».",
-	"modmenu.descriptionTranslation.controlling":"§d● §7Добавляет возможность поиска привязанных клавиш по их названию в меню «назначения клавиш».\nЭто позволит вам легко найти привязанную клавишу в меню.\nДобавляет кнопку, которая будет показывать только те привязанные клавиши, которые конфликтуют друг с другом, что облегчает их исправление.",	
+	"modmenu.descriptionTranslation.controlling":"§d● §7Добавляет возможность поиска привязанных клавиш по их названию в меню «назначения клавиш».\nЭто позволит вам легко найти привязанную клавишу в меню.\nДобавляет кнопку, которая будет показывать только те привязанные клавиши, которые конфликтуют друг с другом, что облегчает их исправление.",
+	###
 	"modmenu.summaryTranslation.cotton-config":"§6● §7API Библиотека для модов.",
 	"modmenu.descriptionTranslation.cotton-config":"§6● §7API Библиотека для модов.",
+	###
 	"modmenu.summaryTranslation.cotton-logging":"§6● §7API Библиотека для модов.",
 	"modmenu.descriptionTranslation.cotton-logging":"§6● §7API Библиотека для модов.",
+	###
 	"modmenu.summaryTranslation.craftpresence":"§d● §7Показывает в вашем дискорд профиле когда вы находитесь находитесь на каком-либо Minecraft сервере и не только.",
-	"modmenu.descriptionTranslation.craftpresence":"§d● §7Добавляет в вашем дискорд профиле возможность просматривать вашим друзья/пользователям, когда вы находитесь находитесь на каком-либо Minecraft сервере и не только.\nМод полностью красиво настроен, также имеет небольшое количество иконок для серверов, если вы хотите добавить иконку для сервера в модпак, используйте GitHub Issues.",
+	"modmenu.descriptionTranslation.craftpresence":"§d● §7Добавляет в вашем дискорд профиле возможность просматривать вашим друзья/пользователям, когда вы находитесь находитесь на каком-либо Minecraft сервере и не только.\nМод полностью красиво настроен, а также имеет поддержку авто-загрузки иконок серверов.",
+	###
 	"modmenu.summaryTranslation.cull-less-leaves":"§a● §c● §7Оптимизирует листву.",
 	"modmenu.descriptionTranslation.cull-less-leaves":"§a● §c● §7Оптимизирует листву.",
+	###
 	"modmenu.summaryTranslation.cem":"§c● §7Добавляет поддержку формата пользовательских моделей сущностей из ресурспаков OptiFine.",
 	"modmenu.descriptionTranslation.cem":"§c● §7Добавляет поддержку формата пользовательских моделей сущностей из ресурспаков OptiFine.",
+	###
 	"modmenu.summaryTranslation.dcch":"§d● §7Не очищает последние использованные команды, а также историю чата после выхода с сервера и повторного подключения.",
 	"modmenu.descriptionTranslation.dcch":"§d● §7Не очищает последние использованные команды, а также историю чата после выхода с сервера и повторного подключения.",
+	###
 	"modmenu.summaryTranslation.deathlocation":"§d● §7Показывает ваши координаты смерти на экране возрождения и отправляет их в чат, когда вы возрождаетесь.",
 	"modmenu.descriptionTranslation.deathlocation":"§d● §7Показывает ваши координаты смерти на экране возрождения и отправляет их в чат, когда вы возрождаетесь.",
+	###
 	"modmenu.summaryTranslation.debugify":"§a● §7Исправляет более 70 ошибок Minecraft, а также заменяет многие моды и реализовывает исправления некоторых других модов.",
 	"modmenu.descriptionTranslation.debugify":"§a● §7Исправляет более 70 ошибок Minecraft, а также заменяет многие моды и реализовывает исправления некоторых других модов.",
+	###
+	"modmenu.summaryTranslation.detailab":"§d● §7Отображает в хотбаре текстуру той брони, которая надета на вас.",
+	"modmenu.descriptionTranslation.detailab":"§d● §7Отображает в хотбаре текстуру той брони, которая надета на вас.",
+	###
 	"modmenu.summaryTranslation.drippyloadingscreen":"§d● §7Добавляет возможность полной настройки экрана загрузки.\nИспользуйте в главном меню сочитание клавиш: «CTRL + ALT + L».",
 	"modmenu.descriptionTranslation.drippyloadingscreen":"§d● §7Добавляет возможность полной настройки экрана загрузки Minecraft.\nИспользуйте в главном меню сочитание клавиш: «CTRL + ALT + L».",
+	###
 	"modmenu.summaryTranslation.eatinganimationid":"§d● §7Добавляет анимацию поедания какой-либо еды.",
 	"modmenu.descriptionTranslation.eatinganimationid":"§d● §7Добавляет анимацию поедания какой-либо еды.",
+	###
 	"modmenu.summaryTranslation.effective":"§d● §7Добавляет эффекты окружения и взаимодействия с окружающей средой для усиления погружения.",
-	"modmenu.descriptionTranslation.effective":"§d● §7Добавляет эффекты окружения и взаимодействия с окружающей средой для усиления погружения.",	
+	"modmenu.descriptionTranslation.effective":"§d● §7Добавляет эффекты окружения и взаимодействия с окружающей средой для усиления погружения.",
+	###
+	"modmenu.summaryTranslation.elytra_physics":"§d● §7Добавляет физику к элитрам, похожую на физику плащей.",
+	"modmenu.descriptionTranslation.elytra_physics":"§d● §7Добавляет физику к элитрам, похожую на физику плащей.",	
+	###
 	"modmenu.summaryTranslation.emotecraft":"§d● §7Добавляет различные эмоции, которые также могут видеть и другие игроки при установленном плагине EmoteCraft на сервере.",
 	"modmenu.descriptionTranslation.emotecraft":"§d● §7Добавляет различные эмоции, которые также могут видеть и другие игроки при установленном плагине EmoteCraft на сервере.\n§7В модпаке уже установлено более 350+ различных эмоций, от команды - SPEmotes.\n§7Некоторые эмоции также можно использовать вместе с ресурспаком - КСЭПСП.",
+	###
+	"modmenu.summaryTranslation.emotes-compat-rp":"§d● §7Добавляет поддержку записи эмоций мода EmoteCraft с помощью Replay Mod.",
+	"modmenu.descriptionTranslation.emotes-compat-rp":"§d● §7Добавляет поддержку записи эмоций мода EmoteCraft с помощью Replay Mod.",
+	###
 	"modmenu.summaryTranslation.enchdesc":"§d● §7Добавляет описания чар во всплывающую подсказку к чародейским книгам.",
 	"modmenu.descriptionTranslation.enchdesc":"§d● §7Добавляет описания чар во всплывающую подсказку к чародейским книгам.",
+	###
 	"modmenu.summaryTranslation.enhancedblockentities":"§a● §7Оптимизирует: сундуки, эндер-сундуки, шалкеры, а также таблички, колокола и кровати.",
 	"modmenu.descriptionTranslation.enhancedblockentities":"§a● §7Оптимизирует: сундуки, эндер-сундуки, шалкеры, а также таблички, колокола и кровати.",
+	###
 	"modmenu.summaryTranslation.entity_texture_features":"§c● §7Добавляет поддержку множества функций текстур сущностей, включая возможности из ресурспаков OptiFine.",
 	"modmenu.descriptionTranslation.entity_texture_features":"§c● §7Добавляет поддержку множества функций текстур сущностей, включая возможности из ресурспаков OptiFine.",
+	###
 	"modmenu.summaryTranslation.entityculling":"§a● §7Использует асинхронную трассировку пути для пропуска рендеринга невидимых блоков/сущностей, а также объектов вне поле зрения.",
 	"modmenu.descriptionTranslation.entityculling":"§a● §7Использует асинхронную трассировку пути для пропуска рендеринга невидимых блоков/сущностей, а также объектов вне поле зрения.",
-	"modmenu.summaryTranslation.essential":"§d● §7Поднимает Minecraft на новый уровень.",
-	"modmenu.descriptionTranslation.essential":"§d● §7Поднимает Minecraft на новый уровень.\n§7- Играйте вместе без сервера.\n§7- Редактируйте и делитесь скриншотами.\n§7- Настройте своего персонажа, используя персонализацию.\n§7- Общайтесь через мессенджер между мирами и серверами.\n§7- Используйте менеджер аккаунтов.\n§7- И многое, многое другое...",		
+	###
+	"modmenu.summaryTranslation.exordium":"§a● §7Оптимизирует графические интерфейсы, чтобы ускорить рендеринг мира.",
+	"modmenu.descriptionTranslation.exordium":"§a● §7Оптимизирует графические интерфейсы, чтобы ускорить рендеринг мира.",	
+	###
 	"modmenu.summaryTranslation.extrasounds":"§d● §7Добавляет больше звуков, таких как: прокрутка творческого меню, подбор вещей, перемещение предметов в инвентаре и тому подобное.",
 	"modmenu.descriptionTranslation.extrasounds":"§d● §7Добавляет больше звуков, таких как: прокрутка творческого меню, подбор вещей, перемещение предметов в инвентаре и тому подобное.",
+	###
 	"modmenu.summaryTranslation.fabric-language-kotlin":"§6● §7API Библиотека для модов.",
 	"modmenu.descriptionTranslation.fabric-language-kotlin":"§6● §7API Библиотека для модов.",
+	###
+	"modmenu.summaryTranslation.fabricskyboxes":"§c● §7Позволяет ресурспакам использовать пользовательское небо.",
+	"modmenu.descriptionTranslation.fabricskyboxes":"§c● §7Позволяет ресурспакам использовать пользовательское небо.",
+    ###
+	"modmenu.summaryTranslation.fsb-interop":"§c● §7Аддон для мода FabricSkyBoxes, который позволяет работать с ресурспаками OptiFine.",
+	"modmenu.descriptionTranslation.fsb-interop":"§c● §7Аддон для мода FabricSkyBoxes, который позволяет работать с ресурспаками OptiFine.",	
+	###
 	"modmenu.summaryTranslation.fabrishot":"§c● §7Позволяет создавать скриншоты с большим разрешением.\n§7Использование - F9. Разрешение по умолчанию - 4K (3840x2160).",
 	"modmenu.descriptionTranslation.fabrishot":"§c● §7Позволяет создавать скриншоты с большим разрешением как в OptiFine.\n§7Использование - F9.\nРазрешение по умолчанию - 4K (3840x2160).",
+	###
 	"modmenu.summaryTranslation.fastload":"§a● §7Сокращает время создания и загрузки мира.",
 	"modmenu.descriptionTranslation.fastload":"§a● §7Сокращает время создания и загрузки мира.",
+	###
 	"modmenu.summaryTranslation.ferritecore":"§a● §7Уменьшает потребление ОЗУ.",
 	"modmenu.descriptionTranslation.ferritecore":"§a● §7Уменьшает потребление ОЗУ.",
+	###
 	"modmenu.summaryTranslation.feytweaks":"§a● §7Оптимизирует таблички и маяки.",
 	"modmenu.descriptionTranslation.feytweaks":"§a● §7Оптимизирует таблички и маяки.",
+	###
+	"modmenu.summaryTranslation.hatlist":"§d● §7Отображает второй слой головы скина в табе на любом расстоянии.",
+	"modmenu.descriptionTranslation.hatlist":"§d● §7Отображает второй слой головы скина в табе на любом расстоянии.",	
+	###
 	"modmenu.summaryTranslation.holdthatchunk":"§c● §7Не выгружает чанки при маленькой прорисовке на сервере.",
 	"modmenu.descriptionTranslation.holdthatchunk":"§c● §7Не выгружает чанки при маленькой прорисовке на сервере.",
+	###
 	"modmenu.summaryTranslation.architectury":"§6● §7API Библиотека для модов.",
 	"modmenu.descriptionTranslation.architectury":"§6● §7API Библиотека для модов.",
+	###
 	"modmenu.summaryTranslation.horsestatsvanilla":"§d● §7Добавляет возможность просмотра статистики лошадей (скорость, прыжок, хп). Используйте сочетание клавиш «Shift+ПКМ» по лошади.",
 	"modmenu.descriptionTranslation.horsestatsvanilla":"§d● §7Добавляет возможность просмотра статистики лошадей (скорость, прыжок, хп).\nИспользуйте сочетание клавиш «Shift+ПКМ» по лошади.",
+	###
 	"modmenu.summaryTranslation.illuminations":"§d● §7Добавляет в ваш мир светлячков, различные светящиеся в темноте окружающие частицы и не только.",
 	"modmenu.descriptionTranslation.illuminations":"§d● §7Добавляет в ваш мир светлячков, различные светящиеся в темноте окружающие частицы и не только.",
+	###
 	"modmenu.summaryTranslation.indium":"§6● §7Аддон для мода Sodium, который добавляет поддержку Fabric Rendering API.",
 	"modmenu.descriptionTranslation.indium":"§6● §7Аддон для мода Sodium, который добавляет поддержку Fabric Rendering API.",
+	###
 	"modmenu.summaryTranslation.inventoryprofilesnext":"§d● §7Поможет вам отсортировать: инвентарь, сундуки, а также шалкеры.",
 	"modmenu.descriptionTranslation.inventoryprofilesnext":"§d● §7Поможет вам отсортировать: инвентарь, сундуки, а также шалкеры.",
+	###
 	"modmenu.summaryTranslation.iris":"§a● §c● §7Добавляет поддержку существующих наборов шейдеров формата OptiFine.",
 	"modmenu.descriptionTranslation.iris":"§a● §c● §7Добавляет поддержку существующих наборов шейдеров формата OptiFine.",
+	###
 	"modmenu.summaryTranslation.jankson":"§6● §7API Библиотека для модов.",
 	"modmenu.descriptionTranslation.jankson":"§6● §7API Библиотека для модов.",
+	###
 	"modmenu.summaryTranslation.kirin":"§6● §7API Библиотека для модов.",
 	"modmenu.descriptionTranslation.kirin":"§6● §7API Библиотека для модов.",
+	###
 	"modmenu.summaryTranslation.krypton":"§a● §7Оптимизирует сетевой стек Minecraft.",
 	"modmenu.descriptionTranslation.krypton":"§a● §7Оптимизирует сетевой стек Minecraft.",
+	###
 	"modmenu.summaryTranslation.lambdabettergrass":"§c● §7Добавляет функцию улучшенной травы и снега как в OptiFine.",
 	"modmenu.descriptionTranslation.lambdabettergrass":"§c● §7Добавляет функцию улучшенной травы и снега как в OptiFine.",
+	###
 	"modmenu.summaryTranslation.lambdynlights":"§c● §7Добавляет функцию динамического освещения как в OptiFine.",
 	"modmenu.descriptionTranslation.lambdynlights":"§c● §7Добавляет функцию динамического освещения как в OptiFine.",
+	###
 	"modmenu.summaryTranslation.languagereload":"§d● §7Добавляет возможность выбрать несколько языков, а также ускоряет их смену с помощью сочетания клавиш: «Shift + F3 + J».",
 	"modmenu.descriptionTranslation.languagereload":"§d● §7Добавляет возможность переключать языки без перезагрузки пакета ресурсов с помощью сочетания клавиш: «F3 + J». Эта функция отладки предназначена в основном для разработчиков и переводчиков.\nВы можете переключаться между языками еще быстрее, используя поле поиска в списке языков.\nПерезагрузка языка, также позволяет переключиться на ранее выбранный язык с помощью сочетания клавиш: «Shift + F3 + J».",
+	###
 	"modmenu.summaryTranslation.lazydfu":"§a● §7Ускоряет запуск игры, откладывая ненужную инициализацию.",
 	"modmenu.descriptionTranslation.lazydfu":"§a● §7Ускоряет запуск игры, откладывая ненужную инициализацию.",
+	###
 	"modmenu.summaryTranslation.lightoverlay":"§d● §7Показывает уровень освещения в разных местах.\nИспользуйте клавишу F7, чтобы увидеть уровень освещения.",
 	"modmenu.descriptionTranslation.lightoverlay":"§d● §7Показывает уровень освещения в разных местах.\nИспользуйте клавишу F7, чтобы увидеть уровень освещения.\nЖелтый крест - означает, что мобы могут появляться только ночью.\nКрасный крест - означает, что мобы могут появляться в любое время.",
+	###
 	"modmenu.summaryTranslation.litematica":"§d● §7Позволяет создавать различные схемы для ваших построек.",
 	"modmenu.descriptionTranslation.litematica":"§d● §7Позволяет создавать различные схемы для ваших построек.",
+	###
 	"modmenu.summaryTranslation.lithium":"§a● §7Оптимизирует физику и чанки в одиночной игре.",
 	"modmenu.descriptionTranslation.lithium":"§a● §7Оптимизирует физику и чанки в одиночной игре.",
+	###
 	"modmenu.summaryTranslation.lowfire":"§d● §7Уменьшает ваше поле зрения при горении огнем от 1-ого лица.",
 	"modmenu.descriptionTranslation.lowfire":"§d● §7Уменьшает ваше поле зрения при горении огнем от 1-ого лица.",
+	###
 	"modmenu.summaryTranslation.isxander-main-menu-credits":"§d● §7Добавляет отображение текущей версии модпака в меню.",
 	"modmenu.descriptionTranslation.isxander-main-menu-credits":"§d● §7Добавляет отображение текущей версии модпака в меню.",
+	###
 	"modmenu.summaryTranslation.malilib":"§6● §7API Библиотека для модов.",
 	"modmenu.descriptionTranslation.malilib":"§6● §7API Библиотека для модов.",
+	###
 	"modmenu.summaryTranslation.mm":"§6● §7API Библиотека для модов.",
 	"modmenu.descriptionTranslation.mm":"§6● §7API Библиотека для модов.",
+	###
 	"modmenu.summaryTranslation.memoryleakfix":"§a● §7Исправляет множественные утечки памяти ОЗУ.",
 	"modmenu.descriptionTranslation.memoryleakfix":"§a● §7Исправляет множественные утечки памяти ОЗУ.",
+	###
 	"modmenu.summaryTranslation.minecraft":"§e● §7Базовая игра.",
 	"modmenu.descriptionTranslation.minecraft":"§e● §7Базовая игра.",
+	###
 	"modmenu.summaryTranslation.mixin-conflict-helper":"§d● §7Улавливает исключения, когда два мода конфликтуют.\nОн находит виновников и отображает удобный графический интерфейс.",
 	"modmenu.descriptionTranslation.mixin-conflict-helper":"§d● §7Улавливает исключения при внедрении, когда два мода конфликтуют.\nОн находит виновников и отображает удобный графический интерфейс, объясняя проблему и предоставляя кнопки для сообщения о проблеме на странице проблем мода.",
+	###
 	"modmenu.summaryTranslation.mixintrace":"§d● §7Добавляет вывод списка миксинов мода при краше.\nБлагодаря чему, разработчики смогут быстрее исправить проблему.",
 	"modmenu.descriptionTranslation.mixintrace":"§d● §7Добавляет вывод списка миксинов мода при краше.\nБлагодаря чему, разработчики смогут быстрее исправить проблему.",
+	###
 	"modmenu.summaryTranslation.modmenu":"§d● §7Добавляет кнопку в меню для просмотра всех ваших модов и их настроек.",
 	"modmenu.descriptionTranslation.modmenu":"§d● §7Добавляет кнопку в меню для просмотра всех ваших модов и их настроек.",
+	###
 	"modmenu.summaryTranslation.modernworldcreation":"§d● §7Добавляет в игру современное меню для создания мира.",
 	"modmenu.descriptionTranslation.modernworldcreation":"§d● §7Добавляет в игру современное меню для создания мира.",
+	###
 	"modmenu.summaryTranslation.moreculling":"§a● §7Улучшает работу многих видов отбраковки для повышения производительности.",
 	"modmenu.descriptionTranslation.moreculling":"§a● §7Улучшает работу многих видов отбраковки для повышения производительности.",
+	###
 	"modmenu.summaryTranslation.morechathistory":"§d● §7Изменяет количество сохраняемых сообщений в чате с 100 до 16384.",
 	"modmenu.descriptionTranslation.morechathistory":"§d● §7Изменяет количество сохраняемых сообщений в чате с 100 до 16384.",
+	###
 	"modmenu.summaryTranslation.nochatreports":"§d● §7Удаляет криптографические подписи в чате от вашего имени, что делает невозможным отслеживание ваших сообщений на сервере.",
 	"modmenu.descriptionTranslation.nochatreports":"§d● §7Удаляет криптографические подписи в чате от вашего имени, что делает невозможным отслеживание ваших сообщений на сервере.",
+	###
 	"modmenu.summaryTranslation.notenoughanimations":"§d● §7Добавляет множество отсутствующих анимаций от третьего и первого лица.",
 	"modmenu.descriptionTranslation.notenoughanimations":"§d● §7Добавляет множество отсутствующих анимаций от третьего и первого лица.",
+	###
 	"modmenu.summaryTranslation.optigui":"§c● §7Добавляет поддержку формата пользовательских графических интерфейсов из ресурспаков OptiFine.",
 	"modmenu.descriptionTranslation.optigui":"§c● §7Добавляет поддержку формата пользовательских графических интерфейсов из ресурспаков OptiFine.",
+	###
 	"modmenu.summaryTranslation.perspectivemod":"§d● §7Добавляет режим поворота от третьего лица на 360 градусов.\nПо умолчанию используйте клавишу - F4.",
 	"modmenu.descriptionTranslation.perspectivemod":"§d● §7Добавляет режим поворота от третьего лица на 360 градусов.\nПо умолчанию используйте клавишу - F4.",
+	###
 	"modmenu.summaryTranslation.petowner":"§d● §7Покажет, кому принадлежит животное, просто взглянув на него.",
 	"modmenu.descriptionTranslation.petowner":"§d● §7Покажет, кому принадлежит животное, просто взглянув на него.",
+	###
 	"modmenu.summaryTranslation.plasmo_voice":"§d● §7Добавляет 3D войс-чат в Minecraft.\nРаботает исключительно на серверах, где установлен серверный плагин.",
 	"modmenu.descriptionTranslation.plasmo_voice":"§d● §7Добавляет 3D войс-чат в Minecraft.\nРаботает исключительно на серверах, где установлен серверный плагин Plasmo Voice Server.",
+	###
 	"modmenu.summaryTranslation.presencefootsteps":"§d● §7Добавляет новые, более динамичные звуки для каждого блока, по которому проходит игрок.",
 	"modmenu.descriptionTranslation.presencefootsteps":"§d● §7Добавляет новые, более динамичные звуки для каждого блока, по которому проходит игрок.",
+	###
+	"modmenu.summaryTranslation.pride":"§6● §7API Библиотека для модов.",
+	"modmenu.descriptionTranslation.pride":"§6● §7API Библиотека для модов.",
+	###
 	"modmenu.summaryTranslation.puzzle":"§c● §7Добавляет кнопку меню слева от поле зрения для более удобной настройки модов замены OptiFine.",
 	"modmenu.descriptionTranslation.puzzle":"§c● §7Добавляет кнопку меню слева от поле зрения для более удобной настройки модов замены OptiFine.",
+	###
 	"modmenu.summaryTranslation.puzzle-base":"§6● §7Общий код между всеми модулями Puzzle.",
 	"modmenu.descriptionTranslation.puzzle-base":"§6● §7Общий код между всеми модулями Puzzle.",
+	###
 	"modmenu.summaryTranslation.puzzle-gui":"§c● §7Объединяет моды для замены OptiFine в чистом графическом интерфейсе.",
 	"modmenu.descriptionTranslation.puzzle-gui":"§c● §7Объединяет моды для замены OptiFine в чистом графическом интерфейсе.",
+	###
 	"modmenu.summaryTranslation.puzzle-models":"§c● §7Предоставляет больше свободы для предметов и моделей блоков.",
 	"modmenu.descriptionTranslation.puzzle-models":"§c● §7Предоставляет больше свободы для предметов и моделей блоков.",
+	###
 	"modmenu.summaryTranslation.puzzle-splashscreen":"§c● §7Позволяет ресурспакам определять пользовательский загрузочный экран.",
 	"modmenu.descriptionTranslation.puzzle-splashscreen":"§c● §7Позволяет ресурспакам определять пользовательский загрузочный экран.",
-	"modmenu.summaryTranslation.recipe-unlocker":"§d● §7Добавляет возможность посмотреть каждый крафт в книге рецептов.",
-	"modmenu.descriptionTranslation.recipe-unlocker":"§d● §7Добавляет возможность посмотреть каждый крафт в книге рецептов.",
+	###
 	"modmenu.summaryTranslation.replaymod":"§d● §7Добавляет возможность записывать, воспроизводить и делиться своим игровым опытом.",
 	"modmenu.descriptionTranslation.replaymod":"§d● §7Добавляет возможность записывать, воспроизводить и делиться своим игровым опытом.",
+	###
 	"modmenu.summaryTranslation.replayvoicechat":"§d● §7Добавляет поддержку записи голосового чата Plasmo Voice с помощью Replay Mod.",
 	"modmenu.descriptionTranslation.replayvoicechat":"§d● §7Добавляет поддержку записи голосового чата Plasmo Voice с помощью Replay Mod.",
+	###
 	"modmenu.summaryTranslation.satin":"§6● §7API Библиотека для модов.",
-	"modmenu.descriptionTranslation.satin":"§6● §7API Библиотека для модов.",	
+	"modmenu.descriptionTranslation.satin":"§6● §7API Библиотека для модов.",
+	###
 	"modmenu.summaryTranslation.screenshotclipboard":"§d● §7Добавляет при скриншоте автоматическое копирование данных изображения в буфер обмена.",
 	"modmenu.descriptionTranslation.screenshotclipboard":"§d● §7Добавляет при скриншоте автоматическое копирование данных изображения в буфер обмена.",
+	###
 	"modmenu.summaryTranslation.sheepconsistency":"§d● §7Добавляет подшерстки под цвет овец.",
 	"modmenu.descriptionTranslation.sheepconsistency":"§d● §7Добавляет подшерстки под цвет овец.",
+	###
 	"modmenu.summaryTranslation.shulkerboxtooltip":"§d● §7Позволит вам открыть окно предварительного просмотра содержимого шалкера при наведении на него, а затем зажатием кнопки «Shift».",
 	"modmenu.descriptionTranslation.shulkerboxtooltip":"§d● §7Позволит вам открыть окно предварительного просмотра содержимого шалкера при наведении на него курсора в инвентаре, а затем зажатием кнопки «Shift».",
+	###
 	"modmenu.summaryTranslation.skinswapper":"§d● §7Добавляет возможность менять скины без открытия лаунчера или сайта Minecraft.",
 	"modmenu.descriptionTranslation.skinswapper":"§d● §7Добавляет возможность менять скины без открытия лаунчера или сайта Minecraft.\nДостаточно лишь перейти в меню списка ваших серверов, после чего слева вверху нажать кнопку «Изменить скин».",
+	###
 	"modmenu.summaryTranslation.smoothboot":"§a● §7Ускоряет запуск игры, а также делает его более плавным, при этом не нагружая центральный процессор под 100 процентов.",
 	"modmenu.descriptionTranslation.smoothboot":"§a● §7Ускоряет запуск игры, а также делает его более плавным, при этом не нагружая центральный процессор под 100 процентов.",
+	###
 	"modmenu.summaryTranslation.smoothscrollingeverywhere":"§d● §7Добавляет плавную прокрутку к каждому списку настроек.",
 	"modmenu.descriptionTranslation.smoothscrollingeverywhere":"§d● §7Добавляет плавную прокрутку к каждому списку настроек.",
+	###
 	"modmenu.summaryTranslation.sodium":"§a● §7Дает основную производительность для повышения FPS.",
 	"modmenu.descriptionTranslation.sodium":"§a● §7Дает основную производительность для повышения FPS.",
+	###
 	"modmenu.summaryTranslation.reeses-sodium-options":"§d● §7Улучшает графический интерфейс настроек для Sodium и Sodium Extra.",
 	"modmenu.descriptionTranslation.reeses-sodium-options":"§d● §7Улучшает графический интерфейс настроек для Sodium и Sodium Extra.",
+	###
 	"modmenu.summaryTranslation.sodium-extra":"§a● §c● §7Добавляет различные дополнительные настройки для Sodium по принципу настроек OptiFine.",
 	"modmenu.descriptionTranslation.sodium-extra":"§a● §c● §7Добавляет различные дополнительные настройки для Sodium по принципу настроек OptiFine.",
+	###
 	"modmenu.summaryTranslation.soundcategories":"§6● §7API Библиотека для модов.",
 	"modmenu.descriptionTranslation.soundcategories":"§6● §7API Библиотека для модов.",
+	###
 	"modmenu.summaryTranslation.sound_physics_remastered":"§d● §7Добавляет несколько звуковых фильтров в зависимости от вашего текущего местоположения.",
 	"modmenu.descriptionTranslation.sound_physics_remastered":"§d● §7Добавляет несколько звуковых фильтров в зависимости от вашего текущего местоположения, например:\n- Эхо в пещерах и нижнем мире.\n- Приглушенные звуки при погружении в воду или лаву.\n- Звуки становятся тише, когда вы находитесь за стенами (особенно из блоков шерсти или губок).\n- Интеграция с Plasmo Voice.",
+	###
 	"modmenu.summaryTranslation.spyzoom":"§d● §7Улучшает подзорную трубу, позволяя увеличивать или уменьшать ее масштаб с помощью колесика мыши.",
 	"modmenu.descriptionTranslation.spyzoom":"§d● §7Улучшает подзорную трубу, позволяя увеличивать или уменьшать ее масштаб с помощью колесика мыши.",
+	###
 	"modmenu.summaryTranslation.starlight":"§a● §7Оптимизирует световой движок, чтобы исправить производительность освещения в одиночной игре.",
 	"modmenu.descriptionTranslation.starlight":"§a● §7Оптимизирует световой движок, чтобы исправить производительность освещения в одиночной игре.",
+	###
+	"modmenu.summaryTranslation.status-effect-bars":"§d● §7Добавляет небольшие настраиваемые полоски к текущим наложенным эффектам.",
+	"modmenu.descriptionTranslation.status-effect-bars":"§d● §7Добавляет небольшие настраиваемые полоски к текущим наложенным эффектам.",	
+	###
 	"modmenu.summaryTranslation.stendhal":"§d● §7Добавляет новые и улучшенные визуальные утилиты для книг, табличек, наковален, а также внутриигрового чата.",
 	"modmenu.descriptionTranslation.stendhal":"§d● §7Добавляет новые и улучшенные визуальные утилиты для книг, табличек, наковален, а также внутриигрового чата.",
+	###
 	"modmenu.summaryTranslation.visuality":"§d● §7Добавляет в ваш мир кучу новых частиц.",
 	"modmenu.descriptionTranslation.visuality":"§d● §7Добавляет в ваш мир кучу новых частиц, таких как: кристальные искры, частицы при хитовании мобов, частицы при прыжке для слаймов, а также частицы окружающей среды.",
+	###
 	"modmenu.summaryTranslation.window_title_changer":"§d● §7Изменяет заголовок и значок окна Minecraft.",
 	"modmenu.descriptionTranslation.window_title_changer":"§d● §7Изменяет заголовок и значок окна Minecraft.",
+	###
 	"modmenu.summaryTranslation.zoomify":"§c● §7Позволяет использовать зум даже лучше, чем в OptiFine.",
 	"modmenu.descriptionTranslation.zoomify":"§c● §7Позволяет использовать зум даже лучше, чем в OptiFine.",
 	### Перевод для дополнительных модов ###
 	"modmenu.summaryTranslation.xaerominimap":"§d● §7Добавляет мини-карту.",
 	"modmenu.descriptionTranslation.xaerominimap":"§d● §7Добавляет мини-карту.",
+	###
 	"modmenu.summaryTranslation.xaeroworldmap":"§d● §7Добавляет полноэкранную карту.",
 	"modmenu.descriptionTranslation.xaeroworldmap":"§d● §7Добавляет полноэкранную карту.",
+	###
 	"modmenu.summaryTranslation.midnightcontrols":"§d● §7Добавляет поддержку геймпада в игру.",
-	"modmenu.descriptionTranslation.midnightcontrols":"§d● §7Добавляет поддержку геймпада в игру.",	
+	"modmenu.descriptionTranslation.midnightcontrols":"§d● §7Добавляет поддержку геймпада в игру.",
+	###
 	"modmenu.summaryTranslation.itemphysiclite":"§d● §7Добавляет реалистичный дроп предметов на земле.",
 	"modmenu.descriptionTranslation.itemphysiclite":"§d● §7Добавляет реалистичный дроп предметов на земле.",
+	###
 	"modmenu.summaryTranslation.tooltiptweaks":"§d● §7Добавляет дополнительные расширенные подсказки.",
 	"modmenu.descriptionTranslation.tooltiptweaks":"§d● §7Добавляет дополнительные расширенные подсказки.",
+	###
 	"modmenu.summaryTranslation.itemmodelfix":"§d● §7Удаляет прозрачные линии и зазоры по краям предметов.",
 	"modmenu.descriptionTranslation.itemmodelfix":"§d● §7Удаляет прозрачные линии и зазоры по краям предметов.",
+	###
 	"modmenu.summaryTranslation.blur":"§d● §7Добавляет размытие по гауссу к фону всех графических интерфейсов.",
 	"modmenu.descriptionTranslation.blur":"§d● §7Добавляет размытие по гауссу к фону всех графических интерфейсов.",
+	###
 	"modmenu.summaryTranslation.midnightcontrols-extra":"§d● §7Открывает дополнительные функции для MidnightControls.\n§cНа некоторых серверах эти функции могут посчитать читерством.",
 	"modmenu.descriptionTranslation.midnightcontrols-extra":"§d● §7Открывает дополнительные функции для MidnightControls.\n§cНа некоторых серверах эти функции могут посчитать читерством.",
+	###
 	"modmenu.summaryTranslation.extendedclouds":"§d● §7Увеличивает дальность облаков вне зависимости от вашей прорисовки.",
 	"modmenu.descriptionTranslation.extendedclouds":"§d● §7Увеличивает дальность облаков вне зависимости от вашей прорисовки.",
+	###
 	"modmenu.summaryTranslation.xaerominimapfair":"§d● §7Добавляет упрощенную версию мини-карты для честной игры.",
 	"modmenu.descriptionTranslation.xaerominimapfair":"§d● §7Добавляет упрощенную версию мини-карты для честной игры.",
+	###
 	"modmenu.summaryTranslation.ias":"§d● §7Добавляет возможность менять аккаунты без перезапуска Minecraft.",
 	"modmenu.descriptionTranslation.ias":"§d● §7Добавляет возможность менять аккаунты без перезапуска Minecraft.",
+	###
 	"modmenu.summaryTranslation.skinlayers":"§d● §7Заменяет плоский второй слой скинов новой 3D версией.",
 	"modmenu.descriptionTranslation.skinlayers":"§d● §7Заменяет плоский второй слой скинов новой 3D версией.",
+	###
 	"modmenu.summaryTranslation.emi":"§d● §7Добавляет возможность просмотреть все доступные предметы в игре, а также крафты этих предметов.",
 	"modmenu.descriptionTranslation.emi":"§d● §7Добавляет возможность просмотреть все доступные предметы в игре, а также крафты этих предметов.",
+	###
 	"modmenu.summaryTranslation.ecs":"§d● §7Добавляет возможность быстро переключаться между нагрудником и элитрами по нажатию клавиши.",
-	"modmenu.descriptionTranslation.ecs":"§d● §7Добавляет возможность быстро переключаться между нагрудником и элитрами по нажатию клавиши.",	
+	"modmenu.descriptionTranslation.ecs":"§d● §7Добавляет возможность быстро переключаться между нагрудником и элитрами по нажатию клавиши.",
+	###
+	"modmenu.summaryTranslation.essential":"§d● §7Поднимает Minecraft на новый уровень.",
+	"modmenu.descriptionTranslation.essential":"§d● §7Поднимает Minecraft на новый уровень.\n§7- Играйте вместе без сервера.\n§7- Редактируйте и делитесь скриншотами.\n§7- Настройте своего персонажа, используя персонализацию.\n§7- Общайтесь через мессенджер между мирами и серверами.\n§7- Используйте менеджер аккаунтов.\n§7- И многое, многое другое...",
+	### Перевод для Effective ###
+	"effective.subtitles.ambience.waterfall": "Водопад шумит",
 	### Перевод для Sodium ###
-	"sodium.option_impact.low":"Низкое",
-	"sodium.option_impact.medium":"Среднее",
-	"sodium.option_impact.high":"Высокое",
-	"sodium.option_impact.extreme":"Огромное",
-	"sodium.option_impact.varies":"Разное",
-	"sodium.options.pages.quality":"Качество",
-	"sodium.options.pages.performance":"Производительность",
-	"sodium.options.pages.advanced":"Расширенные",
-	"sodium.options.view_distance.tooltip":"Дальность прорисовки определяет, как далеко будет видна местность. Меньшие значения соответствуют меньшей площади, что улучшает частоту кадров.",
-	"sodium.options.simulation_distance.tooltip":"Дальность симуляции определяет, как далеко местность и сущности будут загружаться и обрабатываться. Меньшие значения могут уменьшить нагрузку на внутренний сервер и увеличить частоту кадров.",
-	"sodium.options.brightness.tooltip":"Управляет яркостью (гаммой) игры.",
-	"sodium.options.gui_scale.tooltip":"Устанавливает коэффициент масштабирования для интерфейса. При выборе \"авто\" всегда будет использоваться наибольший размер.",
-	"sodium.options.fullscreen.tooltip":"Если включено, игра будет открыта во весь экран (если доступно).",
-	"sodium.options.v_sync.tooltip":"Если включена, частота кадров будет синхронизирована с частотой обновления монитора, обеспечивая более плавную игру за счет небольшой задержки ввода. Может понизить производительность слабых систем.",
-	"sodium.options.fps_limit.tooltip":"Ограничивает максимальное количество кадров в секунду. Это поможет уменьшить расход заряда батареи и нагрузку на систему в обеспечении многозадачности. При включённой вертикальной синхронизации этот параметр будет игнорироваться, если он выше частоты обновления вашего экрана.",
-	"sodium.options.view_bobbing.tooltip":"Если включено, обзор игрока будет покачиваться при движении. Отключение этого параметра может помочь людям, страдающим от укачивания во время игры.",
-	"sodium.options.attack_indicator.tooltip":"Управляет расположением индикатора атаки на экране.",
-	"sodium.options.autosave_indicator.tooltip":"Если включено, при сохранении игрой мира на диск будет показываться индикатор.",
-	"sodium.options.graphics_quality.tooltip":"Качество графики по умолчанию управляет некоторыми наследующими настройками и необходимо для совместимости с модами. Опции ниже со значением \"По умолчанию\" будут использовать этот параметр.",
-	"sodium.options.clouds_quality.tooltip":"Управляет качеством отрисовки облаков в небе.",
-	"sodium.options.weather_quality.tooltip":"Управляет качеством эффектов дождя и снега.",
-	"sodium.options.leaves_quality.name":"Качество листьев",
-	"sodium.options.leaves_quality.tooltip":"Управляет качеством листьев.",
-	"sodium.options.particle_quality.name":"Качество частиц",
-	"sodium.options.particle_quality.tooltip":"Управляет максимальным количеством частиц, которые могут одновременно присутствовать на экране.",
-	"sodium.options.smooth_lighting.tooltip":"Управляет мягким освещением и затенением блоков. Это немного увеличивает время сборки чанка, однако не влияет на частоту кадров.",
-	"sodium.options.biome_blend.value":"%s блок(а/ов)",
-	"sodium.options.biome_blend.tooltip":"Управляет диапазоном анализа биомов для расцветки блока. Более высокие значения сильно увеличивают затрачиваемое на сборку чанков время ради незначительного улучшения качества.",
-	"sodium.options.entity_distance.tooltip":"Управляет дальностью видимости сущностей. Высокие значения увеличивают расстояние отображения за счёт частоты кадров.",
-	"sodium.options.entity_shadows.tooltip":"Если включено, простые тени будут отображаться под мобами и другими сущностями.",
-	"sodium.options.vignette.name":"Виньетирование",
-	"sodium.options.vignette.tooltip":"Если включено, на экране игрока будет отображаться эффект виньетки. Это вряд ли повлияет на частоту кадров, если только вы не ограничены в скорости заполнения.",
-	"sodium.options.mipmap_levels.tooltip":"Управляет количеством уровней детализации для текстур блоков. Более высокие значения обеспечивают лучший вид на расстоянии, но могут негативно повлиять на производительность с большим количеством анимированных текстур.",
-	"sodium.options.use_block_face_culling.name":"Отбраковка поверхностей блоков",
-	"sodium.options.use_block_face_culling.tooltip":"Если включено, на рендеринг будут выводиться только видимые для камеры поверхности блоков. Это может исключить большое количество поверхностей на ранней стадии отрисовки, экономя пропускную способность памяти и время для ГП. Некоторые пакеты ресурсов могут иметь проблемы с этой опцией, поэтому попробуйте отключить её, если вы видите дыры в блоках.",
-	"sodium.options.use_fog_occlusion.name":"Окклюзия тумана",
-	"sodium.options.use_fog_occlusion.tooltip":"Если включено, чанки, определённые как полностью скрытые в тумане, не будут отображаться ради улучшения производительности. Улучшение может быть более значительным, когда эффект тумана сильнее (например, под водой), но в некоторых сценах это может привести к нежелательным визуальным артефактам между небом и туманом.",
-	"sodium.options.use_entity_culling.name":"Отбраковка сущностей",
-	"sodium.options.use_entity_culling.tooltip":"Если включено, сущности, обнаруженные вне видимых чанков, не будут выводиться на рендеринг. Это может помочь улучшить производительность, исключив рендеринг сущностей, находящихся под землёй или за стенами.",
-	"sodium.options.use_particle_culling.name":"Отбраковка частиц",
-	"sodium.options.use_particle_culling.tooltip":"Если включено, будут отображаться только те частицы, которые определены как видимые. Это может обеспечить значительное улучшение частоты кадров, когда рядом находится много частиц.",
-	"sodium.options.animate_only_visible_textures.name":"Анимировать только видимые текстуры",
-	"sodium.options.animate_only_visible_textures.tooltip":"Если включено, будут обновляться лишь видимые анимированные текстуры. Это может значительно повысить частоту кадров на некоторых устройствах, особенно с \"тяжёлыми\" пакетами ресурсов. Если у каких-то текстур возникают проблемы с анимацией, попробуйте отключить эту опцию.",
-	"sodium.options.cpu_render_ahead_limit.name":"Предел опережающего рендеринга ЦП",
-	"sodium.options.cpu_render_ahead_limit.tooltip":"Задаёт максимальное количество кадров, которое ЦП может подготавливать для рендеринга на ГП. Очень низкие или высокие значения могут дестабилизировать частоту кадров.",
-	"sodium.options.cpu_render_ahead_limit.value":"%s кадр(а/ов)",
-	"sodium.options.allow_direct_memory_access.name":"Разрешить прямой доступ к памяти",
-	"sodium.options.allow_direct_memory_access.tooltip":"Если включено, некоторым критическим путям кода будет разрешено использовать прямой доступ к памяти для повышения производительности. Зачастую это сильно снижает перегрузку ЦП при рендеринге чанков и сущностей, но может усложнить диагностику некоторых ошибок и вылетов. Отключать это стоит только если вы следуете инструкциям или точно знаете, что делаете.",
-	"sodium.options.enable_memory_tracing.name":"Включить трассировку памяти",
-	"sodium.options.enable_memory_tracing.tooltip":"Функция отладки. Если включено, трассировка стека будет собираться вместе с распределением памяти, чтобы помочь улучшить диагностическую информацию при обнаружении утечек памяти.",
-	"sodium.options.performance_impact_string":"Влияние на производительность: %s",
-	"sodium.options.use_persistent_mapping.name":"Постоянное сопоставление",
-	"sodium.options.use_persistent_mapping.tooltip":"Если включено, небольшое количество памяти будет постоянно использоваться в качестве промежуточного буфера для загрузки чанков, помогая уменьшить перегрузку ЦП и нестабильность времени отрисовки кадра при загрузке/выгрузке чанков.\n\nТребуется OpenGL 4.4 или ARB_buffer_storage.",
-	"sodium.options.chunk_memory_allocator.name":"Распределитель фрагментов памяти",
-	"sodium.options.chunk_memory_allocator.tooltip":"Выбирает распределитель памяти, используемый для рендеринга чанков.\n- ASYNC: Быстрейший вариант, хорошо работает с большинством современных графических драйверов.\n- SWAP: Запасной вариант для старых графических драйверов. Может существенно увеличить использование памяти.",
-	"sodium.options.chunk_memory_allocator.async":"Async",
-	"sodium.options.chunk_memory_allocator.swap":"Swap",
-	"sodium.options.chunk_update_threads.name":"Потоки обновления чанков",
-	"sodium.options.chunk_update_threads.tooltip":"Задаёт количество потоков для сборки чанков. Использование большего количества потоков способствует повышению скорости обновления и загрузки чанков, но может негативно повлиять на время кадра.",
-	"sodium.options.always_defer_chunk_updates.name":"Всегда откладывать обновления",
-	"sodium.options.always_defer_chunk_updates.tooltip":"Если включено, рендеринг никогда не будет ожидать завершения обновлений чанков, даже если они важны. Это способствует сильному увеличению частоты кадров в некоторых ситуациях, но может привести к появлению существенных визуальных ошибок в мире.",
-	"sodium.options.buttons.undo":"Отменить",
-	"sodium.options.buttons.apply":"Применить",
-	"sodium.options.buttons.donate":"Угостите нас кофе!"	
+	"sodium.option_impact.low": "Низкое",
+	"sodium.option_impact.medium": "Среднее",
+	"sodium.option_impact.high": "Высокое",
+	"sodium.option_impact.extreme": "Огромное",
+	"sodium.option_impact.varies": "Разное",
+	"sodium.options.pages.quality": "Качество",
+	"sodium.options.pages.performance": "Производительность",
+	"sodium.options.pages.advanced": "Расширенные",
+	"sodium.options.view_distance.tooltip": "Дальность прорисовки определяет, как далеко будет видна местность. Меньшие значения соответствуют меньшей площади, что улучшает частоту кадров.",
+	"sodium.options.simulation_distance.tooltip": "Дальность симуляции определяет, как далеко местность и сущности будут загружаться и обрабатываться. Меньшие значения могут уменьшить нагрузку на внутренний сервер и увеличить частоту кадров.",
+	"sodium.options.brightness.tooltip": "Управляет яркостью (гаммой) игры.",
+	"sodium.options.gui_scale.tooltip": "Устанавливает коэффициент масштабирования для интерфейса. При выборе \"авто\" всегда будет использоваться наибольший размер.",
+	"sodium.options.fullscreen.tooltip": "Если включено, игра будет открыта во весь экран (если доступно).",
+	"sodium.options.v_sync.tooltip": "Если включена, частота кадров будет синхронизирована с частотой обновления монитора, обеспечивая более плавную игру за счет небольшой задержки ввода. Может понизить производительность слабых систем.",
+	"sodium.options.fps_limit.tooltip": "Ограничивает максимальное количество кадров в секунду. Это поможет уменьшить расход заряда батареи и нагрузку на систему в обеспечении многозадачности. При включённой вертикальной синхронизации этот параметр будет игнорироваться, если он выше частоты обновления вашего экрана.",
+	"sodium.options.view_bobbing.tooltip": "Если включено, обзор игрока будет покачиваться при движении. Отключение этого параметра может помочь людям, страдающим от укачивания во время игры.",
+	"sodium.options.attack_indicator.tooltip": "Управляет расположением индикатора атаки на экране.",
+	"sodium.options.autosave_indicator.tooltip": "Если включено, при сохранении игрой мира на диск будет показываться индикатор.",
+	"sodium.options.graphics_quality.tooltip": "Качество графики по умолчанию управляет некоторыми наследующими настройками и необходимо для совместимости с модами. Опции ниже со значением \"По умолчанию\" будут использовать этот параметр.",
+	"sodium.options.clouds_quality.tooltip": "Управляет качеством отрисовки облаков в небе.",
+	"sodium.options.weather_quality.tooltip": "Управляет качеством эффектов дождя и снега.",
+	"sodium.options.leaves_quality.name": "Качество листьев",
+	"sodium.options.leaves_quality.tooltip": "Управляет качеством листьев.",
+	"sodium.options.particle_quality.name": "Качество частиц",
+	"sodium.options.particle_quality.tooltip": "Управляет максимальным количеством частиц, которые могут одновременно присутствовать на экране.",
+	"sodium.options.smooth_lighting.tooltip": "Управляет мягким освещением и затенением блоков. Это немного увеличивает время сборки чанка, однако не влияет на частоту кадров.",
+	"sodium.options.biome_blend.value": "%s блок(а/ов)",
+	"sodium.options.biome_blend.tooltip": "Управляет диапазоном анализа биомов для расцветки блока. Более высокие значения сильно увеличивают затрачиваемое на сборку чанков время ради незначительного улучшения качества.",
+	"sodium.options.entity_distance.tooltip": "Управляет дальностью видимости сущностей. Высокие значения увеличивают расстояние отображения за счёт частоты кадров.",
+	"sodium.options.entity_shadows.tooltip": "Если включено, простые тени будут отображаться под мобами и другими сущностями.",
+	"sodium.options.vignette.name": "Виньетка",
+	"sodium.options.vignette.tooltip": "Если включено, на экране игрока будет отображаться эффект виньетки. Это вряд ли повлияет на частоту кадров, если только вы не ограничены в скорости заполнения.",
+	"sodium.options.mipmap_levels.tooltip": "Управляет количеством уровней детализации для текстур блоков. Более высокие значения обеспечивают лучший вид на расстоянии, но могут негативно повлиять на производительность с большим количеством анимированных текстур.",
+	"sodium.options.use_block_face_culling.name": "Отбраковка поверхностей блоков",
+	"sodium.options.use_block_face_culling.tooltip": "Если включено, на рендеринг будут выводиться только видимые для камеры поверхности блоков. Это может исключить большое количество поверхностей на ранней стадии отрисовки, экономя пропускную способность памяти и время для ГП. Некоторые пакеты ресурсов могут иметь проблемы с этой опцией, поэтому попробуйте отключить её, если вы видите дыры в блоках.",
+	"sodium.options.use_fog_occlusion.name": "Окклюзия тумана",
+	"sodium.options.use_fog_occlusion.tooltip": "Если включено, чанки, определённые как полностью скрытые в тумане, не будут отображаться ради улучшения производительности. Улучшение может быть более значительным, когда эффект тумана сильнее (например, под водой), но в некоторых сценах это может привести к нежелательным визуальным артефактам между небом и туманом.",
+	"sodium.options.use_entity_culling.name": "Отбраковка сущностей",
+	"sodium.options.use_entity_culling.tooltip": "Если включено, сущности, обнаруженные вне видимых чанков, не будут выводиться на рендеринг. Это может помочь улучшить производительность, исключив рендеринг сущностей, находящихся под землёй или за стенами.",
+	"sodium.options.use_particle_culling.name": "Отбраковка частиц",
+	"sodium.options.use_particle_culling.tooltip": "Если включено, будут отображаться только те частицы, которые определены как видимые. Это может обеспечить значительное улучшение частоты кадров, когда рядом находится много частиц.",
+	"sodium.options.animate_only_visible_textures.name": "Анимировать только видимые текстуры",
+	"sodium.options.animate_only_visible_textures.tooltip": "Если включено, будут обновляться лишь видимые анимированные текстуры. Это может значительно повысить частоту кадров на некоторых устройствах, особенно с \"тяжёлыми\" пакетами ресурсов. Если у каких-то текстур возникают проблемы с анимацией, попробуйте отключить эту опцию.",
+	"sodium.options.cpu_render_ahead_limit.name": "Лимит пре-рендеринга",
+	"sodium.options.cpu_render_ahead_limit.tooltip": "Задаёт максимальное количество кадров, которое ЦП может подготавливать для рендеринга на ГП. Очень низкие или высокие значения могут дестабилизировать частоту кадров.",
+	"sodium.options.cpu_render_ahead_limit.value": "%s кадр(а/ов)",
+	"sodium.options.allow_direct_memory_access.name": "Разрешить прямой доступ к памяти",
+	"sodium.options.allow_direct_memory_access.tooltip": "Если включено, некоторым важнейшим частям кода будет разрешено использовать прямой доступ к памяти для повышения производительности. Зачастую это сильно снижает накладные расходы на ЦП при рендеринге чанков и сущностей, но может усложнить диагностику некоторых ошибок и вылетов. Отключать это стоит, только если вы следуете инструкциям или точно знаете, что делаете.",
+	"sodium.options.enable_memory_tracing.name": "Включить трассировку памяти",
+	"sodium.options.enable_memory_tracing.tooltip": "Функция отладки. Если включено, трассировка стека будет собираться вместе с распределением памяти, чтобы помочь улучшить диагностическую информацию при обнаружении утечек памяти.",
+	"sodium.options.performance_impact_string": "Влияние на производительность: %s",
+	"sodium.options.use_persistent_mapping.name": "Постоянное сопоставление",
+	"sodium.options.use_persistent_mapping.tooltip": "Если включено, небольшое количество памяти будет постоянно использоваться в качестве промежуточного буфера для загрузки чанков, помогая уменьшить перегрузку ЦП и нестабильность времени отрисовки кадра при загрузке/выгрузке чанков.\n\nТребуется OpenGL 4.4 или ARB_buffer_storage.",
+	"sodium.options.chunk_memory_allocator.name": "Распределитель фрагментов памяти",
+	"sodium.options.chunk_memory_allocator.tooltip": "Выбирает распределитель памяти, используемый для рендеринга чанков.\n- ASYNC: Быстрейший вариант, хорошо работает с большинством современных графических драйверов.\n- SWAP: Запасной вариант для старых графических драйверов. Может существенно увеличить использование памяти.",
+	"sodium.options.chunk_memory_allocator.async": "Async",
+	"sodium.options.chunk_memory_allocator.swap": "Swap",
+	"sodium.options.chunk_update_threads.name": "Потоки обновления чанков",
+	"sodium.options.chunk_update_threads.tooltip": "Задаёт количество потоков для сборки чанков. Использование большего количества потоков способствует повышению скорости обновления и загрузки чанков, но может негативно повлиять на время кадра.",
+	"sodium.options.always_defer_chunk_updates.name": "Всегда откладывать обновления",
+	"sodium.options.always_defer_chunk_updates.tooltip": "Если включено, рендеринг никогда не будет ожидать завершения обновлений чанков, даже если они важны. Это способствует сильному увеличению частоты кадров в некоторых ситуациях, но может привести к появлению существенных визуальных ошибок в мире.",
+	"sodium.options.buttons.undo": "Отменить",
+	"sodium.options.buttons.apply": "Применить",
+	"sodium.options.buttons.donate": "Угостите нас кофе!"
 }
