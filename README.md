@@ -1,5 +1,5 @@
 <div align=center>
-    <img src="https://media.discordapp.net/attachments/517734448008134686/871031824745365505/255629d1d532674f.png" width="1920">
+    <img src="https://cdn.discordapp.com/attachments/517734448008134686/872057180508016650/curse1.png?ex=65e6ee09&is=65d47909&hm=34e0c688bea38ebbf94bc8e0ef4965f40fda6852a422eef83bb5aa81f40b290d&" width="1920">
     <br /><br />
     <h1>✅ ModPack for the game Minecraft 1.18.2 & 1.19.2</h1>
     <a href="https://modrinth.com/modpack/valmata">
@@ -35,5 +35,5 @@
 * **[CurseForge](https://www.curseforge.com/minecraft/modpacks/valmata)** - Download last version ModPack for Minecraft 1.18.2 or 1.19.2 on CurseForge.
 * **[GitHub Releases](https://github.com/Disguys/Valmata/releases)** - Download last version ModPack for Minecraft 1.18.2 or 1.19.2 on GitHub Releases.
 ***
-![Contributors](https://cdn.discordapp.com/attachments/312979296648036353/1005909922761936916/contributors.png)
+![Contributors](https://cdn.discordapp.com/attachments/517734448008134686/871269628297490492/21df.png?ex=65ed4b12&is=65dad612&hm=4bebaa1fbd6a265d4a96ef664260e9dd6b65a2fc7ee816ff91cc5806e899b1ce&)
          
